@@ -21,7 +21,6 @@ DEBUG_SORT = False   # 정렬/매칭/폴백 과정을 자세히 출력
 
 # =========================================================
 # 1) 색상 매핑 기본값
-#    - 필요 시 호출부에서 GLUE를 흰색으로 바꾸면 그대로 반영됨
 # =========================================================
 COLOR_BY_CATEGORY: Dict[str, str] = {
     "GLUE": "#FFFFFF",             # Adhes → 기본 흰색(배경 레이어)
@@ -36,7 +35,6 @@ COLOR_BY_CATEGORY: Dict[str, str] = {
 }
 
 # “단색(uniform_color)” 적용 시에도 원색을 유지할 카테고리(검정 보존용)
-# GLUE는 더 이상 무조건 보존하지 않습니다(사용자가 지정한 색이 반영되도록).
 PRESERVE_BLACK_CATEGORIES = {"PROFILE", "LEGEND"}
 
 # =========================================================
@@ -54,6 +52,19 @@ CATEGORY_ORDER: List[str] = [
     "UNKNOWN",
 ]
 
+# =========================================================
+# 2-1) 합성 버킷(고정 매핑) — type_composite=True에서 사용
+# =========================================================
+COMPOSITE_BUCKET = {
+    "ASSEMBLYDRAWING": "SOLDERMASK",
+    "SOLDERMASK":      "SOLDERMASK",
+    "SOLDERPASTE":     "SOLDERPASTE",
+    "PROFILE":         "PROFILE",
+    "LEGEND":          "LEGEND",
+    "COPPER":          "COPPER",
+    "GLUE":            "GLUE",
+    "UNKNOWN":         "UNKNOWN",
+}
 
 # =========================================================
 # (보조) PNG 후처리 유틸 — 배경색 선택 가능
@@ -74,7 +85,7 @@ def _ensure_rgba(img: Image.Image) -> Image.Image:
 def _recolor_uniform_preserve_black(img: Image.Image, target_hex: str) -> Image.Image:
     """
     알파>0 픽셀 중 '검정(0,0,0)'은 그대로 두고, 나머지만 target_hex로 치환.
-    → 윤곽/실크의 검정은 유지, GLUE는 팔레트/호출 설정에 따름.
+    → 윤곽/실크의 검정은 유지.
     """
     target_rgb = _hex_to_rgb(target_hex)
     img = _ensure_rgba(img)
@@ -92,7 +103,7 @@ def _recolor_uniform_preserve_black(img: Image.Image, target_hex: str) -> Image.
 
 def _fill_transparent_with_color(img: Image.Image, color_hex: str) -> Image.Image:
     """
-    투명(알파=0) 영역을 지정한 색으로 메움. (기본: 사용자 지정 배경색)
+    투명(알파=0) 영역을 지정한 색으로 메움. (PNG 배경 채움)
     """
     img = _ensure_rgba(img)
     r, g, b = _hex_to_rgb(color_hex)
@@ -232,7 +243,7 @@ def guess_from_name(name: str) -> Tuple[str, Optional[str]]:
 
 
 # =========================================================
-# 6) 정렬 및 팔레트 생성
+# 6) 정렬 및 팔레트 생성 (사이드 누수 차단)
 # =========================================================
 def order_and_color_by_gbrjob(
     layer_paths: List[str],
@@ -257,11 +268,7 @@ def order_and_color_by_gbrjob(
             if side and side != side_hint:
                 if DEBUG_SORT:
                     print(f"[FILTER] side mismatch: {rel} ({cat},{side}) != {side_hint}")
-                if cat == 'SOLDERMASK':
-                    print(f"[FILTER] side exception skipped for SOLDERMASK: ({rel}, {cat})")
-                else:
-                    continue
-
+                continue
             if side is None:
                 nm = Path(rel).name.upper()
                 is_top_like = ("F_" in nm or "-F_" in nm or "TOP" in nm)
@@ -276,12 +283,6 @@ def order_and_color_by_gbrjob(
                     continue
 
         records.append((i, rel, cat, side, color, source, file_function))
-
-    if DEBUG_SORT:
-        print("---- [DEBUG] CANDIDATES BEFORE SORT ----")
-        for rec in records:
-            i, rel, cat, side, col, src, func = rec
-            print(f"  idx={i:02d} src={src:<4} cat={cat:<16} side={str(side or '-'):>3} col={col:<8} func='{func}'  -> {rel}")
 
     rank = {cat: idx for idx, cat in enumerate(CATEGORY_ORDER)}
     records_sorted = sorted(records, key=lambda r: (rank.get(r[2], 999), r[0]))
@@ -327,89 +328,339 @@ def detect_file_type_from_kicad(file_path: str) -> FileTypeEnum:
 
 
 # =========================================================
-# 8) SVG 생성 — 팔레트 기반(배경은 GLUE 색상에 따름)
+# 7-1) 공통 유틸 — GLUE 모드 적용
+# =========================================================
+def _apply_glue_mode(
+    cat_side: List[Tuple[str, Optional[str]]],
+    palette: List[str],
+    paths_or_gfiles: List[Union[str, GerberFile]],
+    *,
+    glue_mode: str,  # "keep" | "drop" | "bg"
+) -> Tuple[List[Tuple[str, Optional[str]]], List[str], List[Union[str, GerberFile]]]:
+    """
+    glue_mode:
+      - keep:  변화 없음
+      - drop:  cat == "GLUE" 인 항목 전부 제거
+      - bg:    drop과 동일(그리지는 않음). 배경은 호출부에서 fill_background로 처리
+    """
+    if glue_mode not in ("keep", "drop", "bg"):
+        raise ValueError("glue_mode must be 'keep' | 'drop' | 'bg'")
+
+    if glue_mode == "keep":
+        return cat_side, palette, paths_or_gfiles
+
+    flt_cat_side: List[Tuple[str, Optional[str]]] = []
+    flt_palette: List[str] = []
+    flt_paths: List[Union[str, GerberFile]] = []
+
+    for (cs, col, p) in zip(cat_side, palette, paths_or_gfiles):
+        cat, side = cs
+        if cat == "GLUE":
+            continue
+        flt_cat_side.append(cs)
+        flt_palette.append(col)
+        flt_paths.append(p)
+
+    return flt_cat_side, flt_palette, flt_paths
+
+
+# =========================================================
+# 8) 팔레트 오버라이드(카테고리 강제 색)
+# =========================================================
+def _apply_category_overrides(
+    cat_side_list: List[Tuple[str, Optional[str]]],
+    palette_in: List[str],
+    *,
+    category_override_colors: Optional[Dict[str, str]] = None,
+) -> List[str]:
+    """카테고리별 강제 색상(예: {'GLUE': '#FFFFFF'})을 최우선 반영."""
+    if not category_override_colors:
+        return palette_in
+    out: List[str] = []
+    for (cat, _), col in zip(cat_side_list, palette_in):
+        out.append(category_override_colors.get(cat, col))
+    return out
+
+
+# =========================================================
+# 9) SVG 보조 — 배경/렌더 속성/HEX 정규화
+# =========================================================
+def _inject_svg_background(svg_path: str, bg_hex: str) -> None:
+    """
+    <svg ...> 바로 다음에 full-size 배경 rect 삽입(배경 채움).
+    """
+    try:
+        with open(svg_path, "r", encoding="utf-8") as f:
+            svg = f.read()
+        i = svg.find(">")
+        if i == -1:
+            return
+        bg_rect = f'\n  <rect width="100%" height="100%" fill="{bg_hex}"/>\n'
+        svg_new = svg[:i+1] + bg_rect + svg[i+1:]
+        with open(svg_path, "w", encoding="utf-8") as f:
+            f.write(svg_new)
+    except Exception as e:
+        print(f"[WARN] SVG 배경 주입 실패: {e}")
+
+def _inject_svg_root_attrs(svg_path: str, extra_style: str = None) -> None:
+    """
+    <svg ...> 루트에 렌더 속성(style) 주입 → 경계 또렷/스트로크 비스케일.
+    """
+    if extra_style is None:
+        extra_style = "shape-rendering:crispEdges;vector-effect:non-scaling-stroke"
+    try:
+        import re as _re2
+        with open(svg_path, "r", encoding="utf-8") as f:
+            svg = f.read()
+        m = _re2.search(r"<svg\b([^>]*)>", svg, _re2.IGNORECASE)
+        if not m:
+            return
+        attrs = m.group(1)
+        if 'style="' in attrs:
+            svg_new = _re2.sub(
+                r'style="([^"]*)"',
+                lambda mm: f'style="{mm.group(1)};{extra_style}"',
+                svg,
+                count=1,
+            )
+        else:
+            svg_new = svg.replace(m.group(0), f'<svg{attrs} style="{extra_style}">', 1)
+        with open(svg_path, "w", encoding="utf-8") as f:
+            f.write(svg_new)
+    except Exception as e:
+        print(f"[WARN] SVG 루트 속성 주입 실패: {e}")
+
+def _normalize_hex(hex_str: Optional[str]) -> Optional[str]:
+    if not hex_str:
+        return None
+    s = hex_str.strip()
+    if s.startswith("#"):
+        s = s[1:]
+    if len(s) in (3, 6):
+        if len(s) == 3:
+            s = "".join(ch*2 for ch in s)
+        if re.fullmatch(r"[0-9A-Fa-f]{6}", s):
+            return "#" + s.upper()
+    raise ValueError(f"유효하지 않은 HEX 색상: {hex_str!r}")
+
+
+# =========================================================
+# 10) SVG 생성 — PNG와 시각 규칙 동일화 + GLUE 제어 + Assembly 제외 옵션
 # =========================================================
 def create_svg(
     folder_path: str,
     gbrjob: str,
     output_images_path: str,
     *,
-    uniform_color: Optional[str] = None,   # 전체 단색(윤곽/실크는 검정 보존)
+    by_layers: bool = False,
+    uniform_color: Optional[str] = None,   # 보존 카테고리=검정, 나머지 단색
+    per_layer_uniform: bool = True,
+    background_color: str = "#000000",
+    fill_background: bool = True,
+    type_composite: bool = False,
+    glue_mode: str = "keep",               # "keep" | "drop" | "bg"
+    include_assembly_in_main: bool = False,# 메인(top/bot)_output.svg에서 Assembly 제외(겹침 두께 방지)
+    category_override_colors: Optional[Dict[str, str]] = None,  # 예: {"GLUE":"#FFFFFF"}
 ):
     job_path = os.path.join(folder_path, gbrjob)
     os.makedirs(output_images_path, exist_ok=True)
 
     print(f"확인된 파일 개수:{len(os.listdir(folder_path))}개")
 
+    # HEX 정규화
+    uniform_color = _normalize_hex(uniform_color)
+    background_color = _normalize_hex(background_color) or "#000000"
+    # 오버라이드 색도 정규화
+    if category_override_colors:
+        category_override_colors = {k: (_normalize_hex(v) or v) for k, v in category_override_colors.items()}
+
     job_attrs = load_gbrjob_attributes(job_path)
     front_layers, bottom_layers = Front_Botton_Divider.divide(job_path, folder_path, True)
 
-    # ---- FRONT (TOP) ----
+    def _palette_for_whole(cat_side_list: List[Tuple[str, Optional[str]]],
+                           orig_palette: List[str]) -> List[str]:
+        if uniform_color:
+            pal = ["#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
+                   for (cat, _), _orig in zip(cat_side_list, orig_palette)]
+        else:
+            pal = list(orig_palette)
+        # 카테고리 오버라이드 최우선
+        pal = _apply_category_overrides(cat_side_list, pal, category_override_colors=category_override_colors)
+        return pal
+
+    def _color_for_single_layer(cat: str, orig_color: str) -> str:
+        # 카테고리 강제색 우선
+        if category_override_colors and cat in category_override_colors:
+            return category_override_colors[cat]
+        if uniform_color and per_layer_uniform:
+            return "#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
+        return orig_color
+
+    # ---------------- TOP ----------------
     print("top 레이어 처리...")
-    front_sorted, front_palette, front_cat_side = order_and_color_by_gbrjob(front_layers, job_attrs, side_hint="TOP")
+    front_sorted, front_palette, front_cat_side = order_and_color_by_gbrjob(
+        front_layers, job_attrs, side_hint="TOP"
+    )
+
+    f_cat_side, f_palette, f_paths = _apply_glue_mode(front_cat_side, front_palette, front_sorted, glue_mode=glue_mode)
+
     top_gfiles: List[GerberFile] = []
-    for idx, rel in enumerate(front_sorted, 1):
-        print(f"{idx}/{len(front_sorted)}, 처리중:", rel)
+    for idx, rel in enumerate(f_paths, 1):
+        print(f"{idx}/{len(f_paths)}, 처리중:", rel)
         fpath = os.path.join(folder_path, rel)
         gtype = GerberFile.from_file(fpath).parse().get_file_type()
         if gtype == FileTypeEnum.UNDEFINED:
             gtype = detect_file_type_from_kicad(fpath)
         top_gfiles.append(GerberFile.from_file(fpath, gtype))
 
-    if uniform_color:
-        svg_palette = []
-        for (cat, _), orig in zip(front_cat_side, front_palette):
-            if cat in PRESERVE_BLACK_CATEGORIES:
-                svg_palette.append("#000000")
-            else:
-                svg_palette.append(uniform_color)
+    # 메인 출력용: Assembly 제외 옵션 적용
+    _main_cat_side, _main_palette, _main_gfiles = f_cat_side, f_palette, top_gfiles
+    if not include_assembly_in_main:
+        _main_trip = [(cs, col, gf) for (cs, col, gf) in zip(f_cat_side, f_palette, top_gfiles) if cs[0] != "ASSEMBLYDRAWING"]
+        if _main_trip:
+            _main_cat_side = [t[0] for t in _main_trip]
+            _main_palette  = [t[1] for t in _main_trip]
+            _main_gfiles   = [t[2] for t in _main_trip]
+
+    if not by_layers:
+        palette = _palette_for_whole(_main_cat_side, _main_palette)
+        top_svg = os.path.join(output_images_path, "top_output.svg")
+        Project(_main_gfiles).parse().render_svg(
+            top_svg,
+            ordered_colors=palette,
+            ordered_cycle=False,
+            recolor_mode="both",     # SVG에서는 'both'가 팔레트 강제 적용에 안전
+            inline_apertures=True,
+        )
+        if fill_background:
+            _inject_svg_background(top_svg, background_color)
+        _inject_svg_root_attrs(top_svg)  # 경계 또렷/스트로크 비스케일
+        print("렌더링 완료: top_output.svg")
     else:
-        svg_palette = front_palette
+        for idx, (gfile, (cat, _side), color) in enumerate(zip(top_gfiles, f_cat_side, f_palette)):
+            out_svg = os.path.join(output_images_path, f"f_layer_{idx}.svg")
+            pal_color = _color_for_single_layer(cat, color)
+            Project([gfile]).parse().render_svg(
+                out_svg,
+                ordered_colors=[pal_color],
+                ordered_cycle=False,
+                recolor_mode="both",
+                inline_apertures=True,
+            )
+            if fill_background:
+                _inject_svg_background(out_svg, background_color)
+            _inject_svg_root_attrs(out_svg)
 
-    Project(top_gfiles).parse().render_svg(
-        os.path.join(output_images_path, "top_output.svg"),
-        ordered_colors=svg_palette,
-        inline_apertures=True,
-        recolor_mode="both",
-    )
-    print("렌더링 완료:top_output.svg")
+    # 카테고리별 합성(top): ASSEMBLYDRAWING을 SOLDERMASK에 병합(명시 매핑)
+    if type_composite:
+        cats_top: Dict[str, Dict[str, List[Union[GerberFile, str]]]] = {}
+        for ((cat, _side), col, gf) in zip(f_cat_side, f_palette, top_gfiles):
+            bucket = COMPOSITE_BUCKET.get(cat, "UNKNOWN")
+            entry = cats_top.setdefault(bucket, {"gfiles": [], "colors": []})
+            pal_color = _color_for_single_layer(bucket, col) if uniform_color or category_override_colors else col
+            entry["gfiles"].append(gf)
+            entry["colors"].append(pal_color)
 
-    # ---- BOTTOM (BOT) ----
+        for bucket, bundle in cats_top.items():
+            if not bundle["gfiles"]:
+                continue
+            out_svg_cat = os.path.join(output_images_path, f"top_{bucket.lower()}.svg")
+            Project(bundle["gfiles"]).parse().render_svg(
+                out_svg_cat,
+                ordered_colors=bundle["colors"],
+                ordered_cycle=False,
+                recolor_mode="both",
+                inline_apertures=True,
+            )
+            if fill_background:
+                _inject_svg_background(out_svg_cat, background_color)
+            _inject_svg_root_attrs(out_svg_cat)
+            print(f"렌더링 완료: {Path(out_svg_cat).name}")
+
+    # ---------------- BOT ----------------
     print("bottom 레이어 처리...")
-    bottom_sorted, bottom_palette, bottom_cat_side = order_and_color_by_gbrjob(bottom_layers, job_attrs, side_hint="BOT")
+    bottom_sorted, bottom_palette, bottom_cat_side = order_and_color_by_gbrjob(
+        bottom_layers, job_attrs, side_hint="BOT"
+    )
+
+    b_cat_side, b_palette, b_paths = _apply_glue_mode(bottom_cat_side, bottom_palette, bottom_sorted, glue_mode=glue_mode)
+
     bot_gfiles: List[GerberFile] = []
-    for idx, rel in enumerate(bottom_sorted, 1):
-        print(f"{idx}/{len(bottom_sorted)}, 처리중:", rel)
+    for idx, rel in enumerate(b_paths, 1):
+        print(f"{idx}/{len(b_paths)}, 처리중:", rel)
         fpath = os.path.join(folder_path, rel)
         gtype = GerberFile.from_file(fpath).parse().get_file_type()
         if gtype == FileTypeEnum.UNDEFINED:
             gtype = detect_file_type_from_kicad(fpath)
         bot_gfiles.append(GerberFile.from_file(fpath, gtype))
 
-    if uniform_color:
-        svg_palette_bot = []
-        for (cat, _), orig in zip(bottom_cat_side, bottom_palette):
-            if cat in PRESERVE_BLACK_CATEGORIES:
-                svg_palette_bot.append("#000000")
-            else:
-                svg_palette_bot.append(uniform_color)
-    else:
-        svg_palette_bot = bottom_palette
+    # 메인 출력용: Assembly 제외 옵션 적용
+    _b_main_cat_side, _b_main_palette, _b_main_gfiles = b_cat_side, b_palette, bot_gfiles
+    if not include_assembly_in_main:
+        _b_main_trip = [(cs, col, gf) for (cs, col, gf) in zip(b_cat_side, b_palette, bot_gfiles) if cs[0] != "ASSEMBLYDRAWING"]
+        if _b_main_trip:
+            _b_main_cat_side = [t[0] for t in _b_main_trip]
+            _b_main_palette  = [t[1] for t in _b_main_trip]
+            _b_main_gfiles   = [t[2] for t in _b_main_trip]
 
-    Project(bot_gfiles).parse().render_svg(
-        os.path.join(output_images_path, "bot_output.svg"),
-        ordered_colors=svg_palette_bot,
-        inline_apertures=True,
-        recolor_mode="both",
-    )
-    print("렌더링 완료:bot_output.svg")
+    if not by_layers:
+        palette = _palette_for_whole(_b_main_cat_side, _b_main_palette)
+        bot_svg = os.path.join(output_images_path, "bot_output.svg")
+        Project(_b_main_gfiles).parse().render_svg(
+            bot_svg,
+            ordered_colors=palette,
+            ordered_cycle=False,
+            recolor_mode="both",
+            inline_apertures=True,
+        )
+        if fill_background:
+            _inject_svg_background(bot_svg, background_color)
+        _inject_svg_root_attrs(bot_svg)
+        print("렌더링 완료: bot_output.svg")
+    else:
+        for idx, (gfile, (cat, _side), color) in enumerate(zip(bot_gfiles, b_cat_side, b_palette)):
+            out_svg = os.path.join(output_images_path, f"b_layer_{idx}.svg")
+            pal_color = _color_for_single_layer(cat, color)
+            Project([gfile]).parse().render_svg(
+                out_svg,
+                ordered_colors=[pal_color],
+                ordered_cycle=False,
+                recolor_mode="both",
+                inline_apertures=True,
+            )
+            if fill_background:
+                _inject_svg_background(out_svg, background_color)
+            _inject_svg_root_attrs(out_svg)
+
+    # 카테고리별 합성(bot)
+    if type_composite:
+        cats_bot: Dict[str, Dict[str, List[Union[GerberFile, str]]]] = {}
+        for ((cat, _side), col, gf) in zip(b_cat_side, b_palette, bot_gfiles):
+            bucket = COMPOSITE_BUCKET.get(cat, "UNKNOWN")
+            entry = cats_bot.setdefault(bucket, {"gfiles": [], "colors": []})
+            pal_color = _color_for_single_layer(bucket, col) if uniform_color or category_override_colors else col
+            entry["gfiles"].append(gf)
+            entry["colors"].append(pal_color)
+
+        for bucket, bundle in cats_bot.items():
+            if not bundle["gfiles"]:
+                continue
+            out_svg_cat = os.path.join(output_images_path, f"bot_{bucket.lower()}.svg")
+            Project(bundle["gfiles"]).parse().render_svg(
+                out_svg_cat,
+                ordered_colors=bundle["colors"],
+                ordered_cycle=False,
+                recolor_mode="both",
+                inline_apertures=True,
+            )
+            if fill_background:
+                _inject_svg_background(out_svg_cat, background_color)
+            _inject_svg_root_attrs(out_svg_cat)
+            print(f"렌더링 완료: {Path(out_svg_cat).name}")
 
 
 # =========================================================
-# 9) PNG 생성 — 배경색 선택 가능
-#     ※ by_layers=True에서는 GerberFile.render_raster()를 직접 쓰지 않고
-#        Project([gfile]).render_raster()로 우회(버전 차이 안전)
-#     ※ 신규 기능: type_composite=True 시 카테고리별 합성 PNG 추가 생성
+# 11) PNG 생성 — GLUE 제어/팔레트 오버라이드 동일 반영
 # =========================================================
 def create_png(
     folder_path: str,
@@ -424,37 +675,70 @@ def create_png(
     fill_background: bool = True,          # 투명영역 채우기 여부
     quality: int = 90,
     type_composite: bool = False,          # 카테고리별 합성 PNG 생성
-    create_full: bool = False,             # (유지용 파라미터; 아래 구현에서는 항상 전체 PNG 생성)
+    create_full: bool = False,             # (호환용)
+    glue_mode: str = "keep",               # "keep" | "drop" | "bg"
+    category_override_colors: Optional[Dict[str, str]] = None,  # 예: {"GLUE":"#FFFFFF"}
 ):
     job_path = os.path.join(folder_path, gbrjob)
     os.makedirs(output_images_path, exist_ok=True)
 
     print(f"확인된 파일 개수:{len(os.listdir(folder_path))}개")
 
+    # 색 정규화
+    def _norm_hex(s: Optional[str], default: Optional[str] = None) -> Optional[str]:
+        if s is None:
+            return default
+        t = s.strip()
+        if t.startswith("#"):
+            t = t[1:]
+        if len(t) == 3:
+            t = "".join(ch*2 for ch in t)
+        if re.fullmatch(r"[0-9A-Fa-f]{6}", t):
+            return "#" + t.upper()
+        raise ValueError(f"유효하지 않은 HEX 색상: {s!r}")
+
+    uniform_color = _norm_hex(uniform_color)
+    background_color = _norm_hex(background_color, "#000000") or "#000000"
+    if category_override_colors:
+        category_override_colors = {k: (_norm_hex(v) or v) for k, v in category_override_colors.items()}
+
     job_attrs = load_gbrjob_attributes(job_path)
     front_layers, bottom_layers = Front_Botton_Divider.divide(job_path, folder_path, True)
+
+    def _palette_for_whole(cat_side_list: List[Tuple[str, Optional[str]]],
+                           orig_palette: List[str]) -> List[str]:
+        if uniform_color:
+            pal = ["#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
+                   for (cat, _), _orig in zip(cat_side_list, orig_palette)]
+        else:
+            pal = list(orig_palette)
+        # 카테고리 오버라이드 최우선
+        pal = _apply_category_overrides(cat_side_list, pal, category_override_colors=category_override_colors)
+        return pal
+
+    def _color_for_single_layer(cat: str, orig_color: str) -> str:
+        if category_override_colors and cat in category_override_colors:
+            return category_override_colors[cat]
+        if uniform_color and per_layer_uniform:
+            return "#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
+        return orig_color
 
     # ---- FRONT (TOP) ----
     print("top 레이어 처리...")
     front_sorted, front_palette, front_cat_side = order_and_color_by_gbrjob(front_layers, job_attrs, side_hint="TOP")
+    f_cat_side, f_palette, f_paths = _apply_glue_mode(front_cat_side, front_palette, front_sorted, glue_mode=glue_mode)
     top_gfiles: List[GerberFile] = []
-    for idx, rel in enumerate(front_sorted, 1):
-        print(f"{idx}/{len(front_sorted)}, 처리중:", rel)
+    for idx, rel in enumerate(f_paths, 1):
+        print(f"{idx}/{len(f_paths)}, 처리중:", rel)
         fpath = os.path.join(folder_path, rel)
         gtype = GerberFile.from_file(fpath).parse().get_file_type()
         if gtype == FileTypeEnum.UNDEFINED:
             gtype = detect_file_type_from_kicad(fpath)
         top_gfiles.append(GerberFile.from_file(fpath, gtype))
 
-    # 전체 합성(top) — by_layers=False면 항상 생성
+    # 전체 합성(top)
     if not by_layers:
-        # 팔레트 구성
-        if uniform_color:
-            palette = ["#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
-                       for (cat, _), _orig in zip(front_cat_side, front_palette)]
-        else:
-            palette = front_palette
-
+        palette = _palette_for_whole(f_cat_side, f_palette)
         top_out = os.path.join(output_images_path, "top_output.png")
         Project(top_gfiles).parse().render_raster(
             top_out,
@@ -471,10 +755,9 @@ def create_png(
         _save_image(img, top_out, quality=quality)
         print("렌더링 완료: top_output.png")
     else:
-        # 레이어별 개별 출력(top)
-        for idx, (gfile, (cat, _side), color) in enumerate(zip(top_gfiles, front_cat_side, front_palette)):
+        for idx, (gfile, (cat, _side), color) in enumerate(zip(top_gfiles, f_cat_side, f_palette)):
             out_path = os.path.join(output_images_path, f'f_layer_{idx}.png')
-            pal_color = "#000000" if (uniform_color and cat in PRESERVE_BLACK_CATEGORIES) else (uniform_color or color)
+            pal_color = _color_for_single_layer(cat, color)
             Project([gfile]).parse().render_raster(
                 out_path,
                 ordered_colors=[pal_color],
@@ -489,15 +772,14 @@ def create_png(
                 img = _recolor_uniform_preserve_black(img, uniform_color)
             _save_image(img, out_path, quality=quality)
 
-    # 카테고리별 합성(top): ASSEMBLYDRAWING을 SOLDERMASK와 합침
+    # 카테고리별 합성(top)
     if type_composite:
         cats_top: Dict[str, Dict[str, List[Union[GerberFile, str]]]] = {}
-        for ((cat, _side), col, gf) in zip(front_cat_side, front_palette, top_gfiles):
+        for ((cat, _side), col, gf) in zip(f_cat_side, f_palette, top_gfiles):
             composite_key = "SOLDERMASK" if cat in ("SOLDERMASK", "ASSEMBLYDRAWING") else cat
             entry = cats_top.setdefault(composite_key, {"gfiles": [], "colors": []})
+            pal_color = _color_for_single_layer(composite_key, col)
             entry["gfiles"].append(gf)
-            pal_color = ("#000000" if (uniform_color and composite_key in PRESERVE_BLACK_CATEGORIES)
-                         else (uniform_color or col))
             entry["colors"].append(pal_color)
 
         for cat_key, bundle in cats_top.items():
@@ -521,23 +803,18 @@ def create_png(
     # ---- BOTTOM (BOT) ----
     print("bottom 레이어 처리...")
     bottom_sorted, bottom_palette, bottom_cat_side = order_and_color_by_gbrjob(bottom_layers, job_attrs, side_hint="BOT")
+    b_cat_side, b_palette, b_paths = _apply_glue_mode(bottom_cat_side, bottom_palette, bottom_sorted, glue_mode=glue_mode)
     bot_gfiles: List[GerberFile] = []
-    for idx, rel in enumerate(bottom_sorted, 1):
-        print(f"{idx}/{len(bottom_sorted)}, 처리중:", rel)
+    for idx, rel in enumerate(b_paths, 1):
+        print(f"{idx}/{len(b_paths)}, 처리중:", rel)
         fpath = os.path.join(folder_path, rel)
         gtype = GerberFile.from_file(fpath).parse().get_file_type()
         if gtype == FileTypeEnum.UNDEFINED:
             gtype = detect_file_type_from_kicad(fpath)
         bot_gfiles.append(GerberFile.from_file(fpath, gtype))
 
-    # 전체 합성(bot) — by_layers=False면 항상 생성
     if not by_layers:
-        if uniform_color:
-            palette = ["#000000" if (cat in PRESERVE_BLACK_CATEGORIES) else uniform_color
-                       for (cat, _), _orig in zip(bottom_cat_side, bottom_palette)]
-        else:
-            palette = bottom_palette
-
+        palette = _palette_for_whole(b_cat_side, b_palette)
         bot_out = os.path.join(output_images_path, "bot_output.png")
         Project(bot_gfiles).parse().render_raster(
             bot_out,
@@ -554,10 +831,9 @@ def create_png(
         _save_image(img, bot_out, quality=quality)
         print("렌더링 완료: bot_output.png")
     else:
-        # 레이어별 개별 출력(bot)
-        for idx, (gfile, (cat, _side), color) in enumerate(zip(bot_gfiles, bottom_cat_side, bottom_palette)):
+        for idx, (gfile, (cat, _side), color) in enumerate(zip(bot_gfiles, b_cat_side, b_palette)):
             out_path = os.path.join(output_images_path, f'b_layer_{idx}.png')
-            pal_color = "#000000" if (uniform_color and cat in PRESERVE_BLACK_CATEGORIES) else (uniform_color or color)
+            pal_color = _color_for_single_layer(cat, color)
             Project([gfile]).parse().render_raster(
                 out_path,
                 ordered_colors=[pal_color],
@@ -572,15 +848,14 @@ def create_png(
                 img = _recolor_uniform_preserve_black(img, uniform_color)
             _save_image(img, out_path, quality=quality)
 
-    # 카테고리별 합성(bot): ASSEMBLYDRAWING을 SOLDERMASK와 합침
+    # 카테고리별 합성(bot)
     if type_composite:
         cats_bot: Dict[str, Dict[str, List[Union[GerberFile, str]]]] = {}
-        for ((cat, _side), col, gf) in zip(bottom_cat_side, bottom_palette, bot_gfiles):
+        for ((cat, _side), col, gf) in zip(b_cat_side, b_palette, bot_gfiles):
             composite_key = "SOLDERMASK" if cat in ("SOLDERMASK", "ASSEMBLYDRAWING") else cat
             entry = cats_bot.setdefault(composite_key, {"gfiles": [], "colors": []})
+            pal_color = _color_for_single_layer(composite_key, col)
             entry["gfiles"].append(gf)
-            pal_color = ("#000000" if (uniform_color and composite_key in PRESERVE_BLACK_CATEGORIES)
-                         else (uniform_color or col))
             entry["colors"].append(pal_color)
 
         for cat_key, bundle in cats_bot.items():

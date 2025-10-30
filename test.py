@@ -1,15 +1,13 @@
-from PIL import Image
-import Obs_Mask
+import render_image
 
-img = Image.new('1', (128, 128))
-pixels = img.load()
-
-for a in range(4):
-    data = Obs_Mask.image_to_map(f'./output_images/resized/b_layer_{a}.png')
-    print(data)
-
-    for i in range(img.size[0]):
-       for j in range(img.size[1]):
-           pixels[i, j] = data[i][j]
-
-    img.show()
+render_image.create_svg('./Test Files/Test1',
+                        '_33-job.gbrjob',
+                        './output_images',
+                        uniform_color="#FFFFFF",
+                        glue_mode="keep",
+                        include_assembly_in_main=True,
+                        type_composite=True,
+                        fill_background=True,
+                        background_color="#000000",
+                        category_override_colors={"GLUE":"#FFFFFF"}
+                        )
