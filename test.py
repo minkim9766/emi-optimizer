@@ -8,6 +8,5 @@ render_image.create_svg('./Test Files/Test1',
                         include_assembly_in_main=True,
                         type_composite=True,
                         fill_background=True,
-                        background_color="#000000",
                         category_override_colors={"GLUE":"#FFFFFF"}
                         )
