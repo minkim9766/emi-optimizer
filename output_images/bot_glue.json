@@ -1,0 +1,320 @@
+{
+  "svg_size": {
+    "width_px": 187.810398,
+    "height_px": 76.55,
+    "width_raw": "187.810398",
+    "height_raw": "76.55",
+    "viewBox": [
+      0.0,
+      0.0,
+      187.810398,
+      76.55
+    ]
+  },
+  "objects": [
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 40.939,
+        "y": 2.2365,
+        "width": 85.2412,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.0356,
+          "cx": 83.5596,
+          "cy": 2.7365
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 124.8502,
+        "y": 0.88,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 126.1802,
+          "cy": 1.38
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 126.1802,
+        "y": -0.45,
+        "width": 11.09,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0,
+          "cx": 131.7252,
+          "cy": 0.05
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 135.9402,
+        "y": 0.88,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 137.2702,
+          "cy": 1.38
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 137.2702,
+        "y": 2.2,
+        "width": 9.64,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.1189,
+          "cx": 142.0902,
+          "cy": 2.7
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 155.25,
+        "y": 2.2115,
+        "width": 30.2603,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.0814,
+          "cx": 170.3801,
+          "cy": 2.7115
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 163.5104,
+        "y": 28.6851,
+        "width": 48.4898,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0121,
+          "cx": 187.7553,
+          "cy": 29.1851
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 175.3802,
+        "y": 54.94,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 180.0,
+          "cx": 180.5602,
+          "cy": 55.44
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 164.8502,
+        "y": 65.47,
+        "width": 17.04,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 173.3702,
+          "cy": 65.97
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 160.0102,
+        "y": 75.995,
+        "width": 11.35,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -179.9495,
+          "cx": 165.6852,
+          "cy": 76.495
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 36.35,
+        "y": 75.9635,
+        "width": 115.3204,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.9836,
+          "cx": 94.0102,
+          "cy": 76.4635
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 16.4402,
+        "y": 75.9485,
+        "width": 11.57,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.8861,
+          "cx": 22.2252,
+          "cy": 76.4485
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 5.9302,
+        "y": 65.45,
+        "width": 17.0,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 14.4302,
+          "cy": 65.95
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 2.0602,
+        "y": 54.94,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 180.0,
+          "cx": 7.2402,
+          "cy": 55.44
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": -24.1849,
+        "y": 28.695,
+        "width": 48.47,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0002,
+          "cx": 0.0501,
+          "cy": 29.195
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path2",
+      "attrs": {
+        "x": 2.3002,
+        "y": 2.2149,
+        "width": 30.299,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0193,
+          "cx": 17.4497,
+          "cy": 2.7149
+        }
+      ]
+    }
+  ]
+}

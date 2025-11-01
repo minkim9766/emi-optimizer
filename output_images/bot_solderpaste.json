@@ -1,0 +1,3948 @@
+{
+  "svg_size": {
+    "width_px": 187.810398,
+    "height_px": 82.23999923150237,
+    "width_raw": "187.810398",
+    "height_raw": "82.23999923150237",
+    "viewBox": [
+      0.0,
+      0.0,
+      187.810398,
+      82.23999923150237
+    ]
+  },
+  "objects": [
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path11",
+      "attrs": {
+        "x": 185.4439,
+        "y": 4.0282,
+        "width": 1.7414,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 22.5,
+          "cx": 186.3146,
+          "cy": 4.5282
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path11",
+      "attrs": {
+        "x": 186.5815,
+        "y": 5.1658,
+        "width": 1.7414,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 67.5,
+          "cx": 187.4522,
+          "cy": 5.6658
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path11",
+      "attrs": {
+        "x": 186.558,
+        "y": 5.1835,
+        "width": 1.7031,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -112.5,
+          "cx": 187.4095,
+          "cy": 5.6835
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path11",
+      "attrs": {
+        "x": 185.4454,
+        "y": 4.0709,
+        "width": 1.7031,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -157.5,
+          "cx": 186.2969,
+          "cy": 4.5709
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path13",
+      "attrs": {
+        "x": 40.939,
+        "y": 3.7915,
+        "width": 85.2412,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.9644,
+          "cx": 83.5596,
+          "cy": 4.2915
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path13",
+      "attrs": {
+        "x": 40.939,
+        "y": 3.7415,
+        "width": 85.2412,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.0356,
+          "cx": 83.5596,
+          "cy": 4.2415
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path15",
+      "attrs": {
+        "x": 160.0102,
+        "y": 77.55,
+        "width": 11.35,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -179.9495,
+          "cx": 165.6852,
+          "cy": 78.05
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path15",
+      "attrs": {
+        "x": 160.0102,
+        "y": 77.5,
+        "width": 11.35,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0505,
+          "cx": 165.6852,
+          "cy": 78.0
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path17",
+      "attrs": {
+        "x": 16.4402,
+        "y": 77.5035,
+        "width": 11.57,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.8861,
+          "cx": 22.2252,
+          "cy": 78.0035
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path17",
+      "attrs": {
+        "x": 16.4401,
+        "y": 77.4535,
+        "width": 11.57,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.1139,
+          "cx": 22.2251,
+          "cy": 77.9535
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 150.9965,
+        "y": 76.6782,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -78.1966,
+          "cx": 151.8123,
+          "cy": 77.1782
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 151.6223,
+        "y": 75.2053,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -55.7704,
+          "cx": 152.438,
+          "cy": 75.7053
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 152.7626,
+        "y": 74.0824,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -33.3441,
+          "cx": 153.5784,
+          "cy": 74.5824
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 154.2451,
+        "y": 73.4795,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -10.9178,
+          "cx": 155.0608,
+          "cy": 73.9795
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 155.8454,
+        "y": 73.4878,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 11.5085,
+          "cx": 156.6612,
+          "cy": 73.9878
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 157.3216,
+        "y": 74.1059,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 33.9348,
+          "cx": 158.1373,
+          "cy": 74.6059
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 158.4503,
+        "y": 75.2405,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 56.3611,
+          "cx": 159.2661,
+          "cy": 75.7405
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 159.0608,
+        "y": 76.7198,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 78.7874,
+          "cx": 159.8766,
+          "cy": 77.2198
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 159.0224,
+        "y": 76.7294,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -101.2135,
+          "cx": 159.8285,
+          "cy": 77.2294
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 158.4192,
+        "y": 75.2677,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -123.6396,
+          "cx": 159.2252,
+          "cy": 75.7677
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 157.3039,
+        "y": 74.1467,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -146.0656,
+          "cx": 158.1099,
+          "cy": 74.6467
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 155.8454,
+        "y": 73.5359,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -168.4916,
+          "cx": 156.6514,
+          "cy": 74.0359
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 154.2641,
+        "y": 73.5278,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 169.0823,
+          "cx": 155.0701,
+          "cy": 74.0278
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 152.7993,
+        "y": 74.1235,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 146.6563,
+          "cx": 153.6053,
+          "cy": 74.6235
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 151.6726,
+        "y": 75.2329,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 124.2303,
+          "cx": 152.4786,
+          "cy": 75.7329
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path19",
+      "attrs": {
+        "x": 151.0543,
+        "y": 76.6883,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 101.8042,
+          "cx": 151.8603,
+          "cy": 77.1883
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path21",
+      "attrs": {
+        "x": 14.942,
+        "y": 77.217,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -157.5,
+          "cx": 15.7207,
+          "cy": 77.717
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path21",
+      "attrs": {
+        "x": 13.9245,
+        "y": 76.1995,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -112.5,
+          "cx": 14.7032,
+          "cy": 76.6995
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path21",
+      "attrs": {
+        "x": 13.9863,
+        "y": 76.1818,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 67.5,
+          "cx": 14.7459,
+          "cy": 76.6818
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path21",
+      "attrs": {
+        "x": 14.9788,
+        "y": 77.1743,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 22.5,
+          "cx": 15.7384,
+          "cy": 77.6743
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path23",
+      "attrs": {
+        "x": 175.3802,
+        "y": 56.445,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0,
+          "cx": 180.5602,
+          "cy": 56.945
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path23",
+      "attrs": {
+        "x": 175.3802,
+        "y": 56.495,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 180.0,
+          "cx": 180.5602,
+          "cy": 56.995
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path25",
+      "attrs": {
+        "x": 186.6984,
+        "y": 55.1795,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 112.5,
+          "cx": 187.4772,
+          "cy": 55.6795
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path25",
+      "attrs": {
+        "x": 185.6809,
+        "y": 56.197,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 157.5,
+          "cx": 186.4597,
+          "cy": 56.697
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path25",
+      "attrs": {
+        "x": 185.6824,
+        "y": 56.1543,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -22.5,
+          "cx": 186.442,
+          "cy": 56.6543
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path25",
+      "attrs": {
+        "x": 186.6749,
+        "y": 55.1618,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -67.5,
+          "cx": 187.4345,
+          "cy": 55.6618
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path27",
+      "attrs": {
+        "x": 164.8252,
+        "y": 67.0,
+        "width": 17.04,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 173.3452,
+          "cy": 67.5
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path27",
+      "attrs": {
+        "x": 164.8752,
+        "y": 67.0,
+        "width": 17.04,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 173.3952,
+          "cy": 67.5
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path29",
+      "attrs": {
+        "x": 172.8645,
+        "y": 57.7605,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -67.5,
+          "cx": 173.6432,
+          "cy": 58.2605
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path29",
+      "attrs": {
+        "x": 173.882,
+        "y": 56.743,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -22.5,
+          "cx": 174.6607,
+          "cy": 57.243
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path29",
+      "attrs": {
+        "x": 173.9188,
+        "y": 56.7857,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 157.5,
+          "cx": 174.6784,
+          "cy": 57.2857
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path29",
+      "attrs": {
+        "x": 172.9263,
+        "y": 57.7782,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 112.5,
+          "cx": 173.6859,
+          "cy": 58.2782
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path31",
+      "attrs": {
+        "x": 172.3184,
+        "y": 76.2395,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 112.5,
+          "cx": 173.0972,
+          "cy": 76.7395
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path31",
+      "attrs": {
+        "x": 171.3009,
+        "y": 77.257,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 157.5,
+          "cx": 172.0797,
+          "cy": 77.757
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path31",
+      "attrs": {
+        "x": 171.3024,
+        "y": 77.2143,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -22.5,
+          "cx": 172.062,
+          "cy": 77.7143
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path31",
+      "attrs": {
+        "x": 172.2949,
+        "y": 76.2218,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -67.5,
+          "cx": 173.0545,
+          "cy": 76.7218
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path33",
+      "attrs": {
+        "x": -0.5125,
+        "y": 5.1856,
+        "width": 1.7414,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -67.5,
+          "cx": 0.3582,
+          "cy": 5.6856
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path33",
+      "attrs": {
+        "x": 0.6251,
+        "y": 4.048,
+        "width": 1.7414,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -22.5,
+          "cx": 1.4958,
+          "cy": 4.548
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path33",
+      "attrs": {
+        "x": 0.6619,
+        "y": 4.0907,
+        "width": 1.7031,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 157.5,
+          "cx": 1.5135,
+          "cy": 4.5907
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path33",
+      "attrs": {
+        "x": -0.4507,
+        "y": 5.2033,
+        "width": 1.7031,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 112.5,
+          "cx": 0.4009,
+          "cy": 5.7033
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path35",
+      "attrs": {
+        "x": -24.2349,
+        "y": 30.225,
+        "width": 48.47,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0002,
+          "cx": 0.0001,
+          "cy": 30.725
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path35",
+      "attrs": {
+        "x": -24.1349,
+        "y": 30.225,
+        "width": 48.47,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 89.9998,
+          "cx": 0.1001,
+          "cy": 30.725
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path37",
+      "attrs": {
+        "x": 12.3609,
+        "y": 56.743,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 22.5,
+          "cx": 13.1397,
+          "cy": 57.243
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path37",
+      "attrs": {
+        "x": 13.3784,
+        "y": 57.7605,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 67.5,
+          "cx": 14.1572,
+          "cy": 58.2605
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path37",
+      "attrs": {
+        "x": 13.3549,
+        "y": 57.7782,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -112.5,
+          "cx": 14.1145,
+          "cy": 58.2782
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path37",
+      "attrs": {
+        "x": 12.3624,
+        "y": 56.7857,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -157.5,
+          "cx": 13.122,
+          "cy": 57.2857
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 154.2924,
+        "y": 4.5618,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 101.8034,
+          "cx": 155.1081,
+          "cy": 5.0618
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 153.6666,
+        "y": 6.0347,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 124.2296,
+          "cx": 154.4824,
+          "cy": 6.5347
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 152.5263,
+        "y": 7.1576,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 146.6559,
+          "cx": 153.342,
+          "cy": 7.6576
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 151.0438,
+        "y": 7.7605,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 169.0822,
+          "cx": 151.8596,
+          "cy": 8.2605
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 149.4435,
+        "y": 7.7522,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -168.4915,
+          "cx": 150.2592,
+          "cy": 8.2522
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 147.9673,
+        "y": 7.1341,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -146.0652,
+          "cx": 148.783,
+          "cy": 7.6341
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 146.8386,
+        "y": 5.9995,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -123.6389,
+          "cx": 147.6543,
+          "cy": 6.4995
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 146.2281,
+        "y": 4.5202,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -101.2126,
+          "cx": 147.0438,
+          "cy": 5.0202
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 146.2859,
+        "y": 4.5106,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 78.7865,
+          "cx": 147.0919,
+          "cy": 5.0106
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 146.8892,
+        "y": 5.9723,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 56.3604,
+          "cx": 147.6952,
+          "cy": 6.4723
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 148.0044,
+        "y": 7.0933,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 33.9344,
+          "cx": 148.8105,
+          "cy": 7.5933
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 149.463,
+        "y": 7.7041,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 11.5084,
+          "cx": 150.269,
+          "cy": 8.2041
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 151.0442,
+        "y": 7.7122,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -10.9177,
+          "cx": 151.8503,
+          "cy": 8.2122
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 152.509,
+        "y": 7.1165,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -33.3437,
+          "cx": 153.315,
+          "cy": 7.6165
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 153.6358,
+        "y": 6.0071,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -55.7697,
+          "cx": 154.4418,
+          "cy": 6.5071
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path39",
+      "attrs": {
+        "x": 154.2541,
+        "y": 4.5517,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -78.1958,
+          "cx": 155.0601,
+          "cy": 5.0517
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path41",
+      "attrs": {
+        "x": 2.3002,
+        "y": 3.7199,
+        "width": 30.299,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0193,
+          "cx": 17.4497,
+          "cy": 4.2199
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path41",
+      "attrs": {
+        "x": 2.3002,
+        "y": 3.7699,
+        "width": 30.299,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -179.9807,
+          "cx": 17.4497,
+          "cy": 4.2699
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 27.3363,
+        "y": 76.6682,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -78.1966,
+          "cx": 28.1521,
+          "cy": 77.1682
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 27.962,
+        "y": 75.1953,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -55.7704,
+          "cx": 28.7778,
+          "cy": 75.6953
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 29.1024,
+        "y": 74.0724,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -33.3441,
+          "cx": 29.9181,
+          "cy": 74.5724
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 30.5849,
+        "y": 73.4695,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -10.9178,
+          "cx": 31.4006,
+          "cy": 73.9695
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 32.1852,
+        "y": 73.4778,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 11.5085,
+          "cx": 33.001,
+          "cy": 73.9778
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 33.6614,
+        "y": 74.0959,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 33.9348,
+          "cx": 34.4771,
+          "cy": 74.5959
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 34.7901,
+        "y": 75.2305,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 56.3611,
+          "cx": 35.6058,
+          "cy": 75.7305
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 35.4006,
+        "y": 76.7098,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 78.7874,
+          "cx": 36.2164,
+          "cy": 77.2098
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 35.3622,
+        "y": 76.7194,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -101.2135,
+          "cx": 36.1682,
+          "cy": 77.2194
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 34.759,
+        "y": 75.2577,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -123.6396,
+          "cx": 35.565,
+          "cy": 75.7577
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 33.6437,
+        "y": 74.1367,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -146.0656,
+          "cx": 34.4497,
+          "cy": 74.6367
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 32.1851,
+        "y": 73.5259,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -168.4916,
+          "cx": 32.9912,
+          "cy": 74.0259
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 30.6039,
+        "y": 73.5178,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 169.0823,
+          "cx": 31.4099,
+          "cy": 74.0178
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 29.1391,
+        "y": 74.1135,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 146.6563,
+          "cx": 29.9451,
+          "cy": 74.6135
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 28.0124,
+        "y": 75.2229,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 124.2303,
+          "cx": 28.8184,
+          "cy": 75.7229
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path43",
+      "attrs": {
+        "x": 27.3941,
+        "y": 76.6783,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 101.8042,
+          "cx": 28.2001,
+          "cy": 77.1783
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path45",
+      "attrs": {
+        "x": 163.5604,
+        "y": 30.2151,
+        "width": 48.4898,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0121,
+          "cx": 187.8053,
+          "cy": 30.7151
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path45",
+      "attrs": {
+        "x": 163.4604,
+        "y": 30.2151,
+        "width": 48.4898,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -89.9879,
+          "cx": 187.7053,
+          "cy": 30.7151
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path47",
+      "attrs": {
+        "x": 0.562,
+        "y": 56.197,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -157.5,
+          "cx": 1.3407,
+          "cy": 56.697
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path47",
+      "attrs": {
+        "x": -0.4555,
+        "y": 55.1795,
+        "width": 1.5575,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -112.5,
+          "cx": 0.3232,
+          "cy": 55.6795
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path47",
+      "attrs": {
+        "x": -0.3937,
+        "y": 55.1618,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 67.5,
+          "cx": 0.3659,
+          "cy": 55.6618
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path47",
+      "attrs": {
+        "x": 0.5988,
+        "y": 56.1543,
+        "width": 1.5193,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 22.5,
+          "cx": 1.3584,
+          "cy": 56.6543
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path49",
+      "attrs": {
+        "x": 124.8252,
+        "y": 2.41,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 126.1552,
+          "cy": 2.91
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path49",
+      "attrs": {
+        "x": 124.8752,
+        "y": 2.41,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 126.2052,
+          "cy": 2.91
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path51",
+      "attrs": {
+        "x": 155.25,
+        "y": 3.7665,
+        "width": 30.2603,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.9186,
+          "cx": 170.3801,
+          "cy": 4.2665
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path51",
+      "attrs": {
+        "x": 155.2499,
+        "y": 3.7165,
+        "width": 30.2603,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.0814,
+          "cx": 170.3801,
+          "cy": 4.2165
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path53",
+      "attrs": {
+        "x": 36.35,
+        "y": 77.5435,
+        "width": 115.3204,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.9836,
+          "cx": 94.0102,
+          "cy": 78.0435
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path53",
+      "attrs": {
+        "x": 36.35,
+        "y": 77.4435,
+        "width": 115.3204,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.0164,
+          "cx": 94.0102,
+          "cy": 77.9435
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path55",
+      "attrs": {
+        "x": 2.0602,
+        "y": 56.495,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 180.0,
+          "cx": 7.2402,
+          "cy": 56.995
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path55",
+      "attrs": {
+        "x": 2.0602,
+        "y": 56.445,
+        "width": 10.36,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0,
+          "cx": 7.2402,
+          "cy": 56.945
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path57",
+      "attrs": {
+        "x": 126.1802,
+        "y": 1.055,
+        "width": 11.09,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 0.0,
+          "cx": 131.7252,
+          "cy": 1.555
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path57",
+      "attrs": {
+        "x": 126.1802,
+        "y": 1.105,
+        "width": 11.09,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 180.0,
+          "cx": 131.7252,
+          "cy": 1.605
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 39.9814,
+        "y": 4.5918,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 101.8034,
+          "cx": 40.7971,
+          "cy": 5.0918
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 39.3556,
+        "y": 6.0647,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 124.2296,
+          "cx": 40.1714,
+          "cy": 6.5647
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 38.2153,
+        "y": 7.1876,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 146.6559,
+          "cx": 39.0311,
+          "cy": 7.6876
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 36.7328,
+        "y": 7.7905,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 169.0822,
+          "cx": 37.5486,
+          "cy": 8.2905
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 35.1325,
+        "y": 7.7822,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -168.4915,
+          "cx": 35.9482,
+          "cy": 8.2822
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 33.6563,
+        "y": 7.1641,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -146.0652,
+          "cx": 34.4721,
+          "cy": 7.6641
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 32.5276,
+        "y": 6.0295,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -123.6389,
+          "cx": 33.3434,
+          "cy": 6.5295
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 31.9171,
+        "y": 4.5502,
+        "width": 1.6315,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -101.2126,
+          "cx": 32.7328,
+          "cy": 5.0502
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 31.9749,
+        "y": 4.5406,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 78.7865,
+          "cx": 32.781,
+          "cy": 5.0406
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 32.5782,
+        "y": 6.0023,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 56.3604,
+          "cx": 33.3842,
+          "cy": 6.5023
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 33.6935,
+        "y": 7.1233,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 33.9344,
+          "cx": 34.4995,
+          "cy": 7.6233
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 35.152,
+        "y": 7.7341,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 11.5084,
+          "cx": 35.958,
+          "cy": 8.2341
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 36.7333,
+        "y": 7.7422,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -10.9177,
+          "cx": 37.5393,
+          "cy": 8.2422
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 38.198,
+        "y": 7.1465,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -33.3437,
+          "cx": 39.0041,
+          "cy": 7.6465
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 39.3248,
+        "y": 6.0371,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -55.7697,
+          "cx": 40.1308,
+          "cy": 6.5371
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path59",
+      "attrs": {
+        "x": 39.9431,
+        "y": 4.5817,
+        "width": 1.6121,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -78.1958,
+          "cx": 40.7491,
+          "cy": 5.0817
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path61",
+      "attrs": {
+        "x": 5.9052,
+        "y": 66.98,
+        "width": 17.0,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 14.4052,
+          "cy": 67.48
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path61",
+      "attrs": {
+        "x": 5.9552,
+        "y": 66.98,
+        "width": 17.0,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 14.4552,
+          "cy": 67.48
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path63",
+      "attrs": {
+        "x": 135.9652,
+        "y": 2.41,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 90.0,
+          "cx": 137.2952,
+          "cy": 2.91
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path63",
+      "attrs": {
+        "x": 135.9152,
+        "y": 2.41,
+        "width": 2.66,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -90.0,
+          "cx": 137.2452,
+          "cy": 2.91
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path65",
+      "attrs": {
+        "x": 137.2701,
+        "y": 3.705,
+        "width": 9.64,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": -0.1189,
+          "cx": 142.0901,
+          "cy": 4.205
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "path65",
+      "attrs": {
+        "x": 137.2702,
+        "y": 3.755,
+        "width": 9.64,
+        "height": 1.0
+      },
+      "transform_ops": [
+        {
+          "type": "rotate",
+          "angle_deg": 179.8811,
+          "cx": 142.0903,
+          "cy": 4.255
+        }
+      ]
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect77",
+      "attrs": {
+        "x": 112.5102,
+        "y": 33.87,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect78",
+      "attrs": {
+        "x": 112.5102,
+        "y": 37.17,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect79",
+      "attrs": {
+        "x": 131.2602,
+        "y": 52.81,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect80",
+      "attrs": {
+        "x": 131.2602,
+        "y": 56.11,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect81",
+      "attrs": {
+        "x": 93.2702,
+        "y": 33.89,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect82",
+      "attrs": {
+        "x": 93.2702,
+        "y": 37.19,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect83",
+      "attrs": {
+        "x": 113.1602,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect84",
+      "attrs": {
+        "x": 113.1602,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect85",
+      "attrs": {
+        "x": 55.0102,
+        "y": 52.98,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect86",
+      "attrs": {
+        "x": 55.0102,
+        "y": 56.28,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect87",
+      "attrs": {
+        "x": 156.5202,
+        "y": 66.88,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect88",
+      "attrs": {
+        "x": 156.5202,
+        "y": 70.18,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect89",
+      "attrs": {
+        "x": 131.2402,
+        "y": 33.84,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect90",
+      "attrs": {
+        "x": 131.2402,
+        "y": 37.14,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect91",
+      "attrs": {
+        "x": 93.2402,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect92",
+      "attrs": {
+        "x": 93.2402,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect93",
+      "attrs": {
+        "x": 95.0602,
+        "y": 52.76,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect94",
+      "attrs": {
+        "x": 95.0602,
+        "y": 56.06,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect95",
+      "attrs": {
+        "x": 169.2802,
+        "y": 33.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect96",
+      "attrs": {
+        "x": 169.2802,
+        "y": 37.08,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect97",
+      "attrs": {
+        "x": 36.1602,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect98",
+      "attrs": {
+        "x": 36.1602,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect99",
+      "attrs": {
+        "x": 169.1902,
+        "y": 52.86,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect100",
+      "attrs": {
+        "x": 169.1902,
+        "y": 56.16,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect101",
+      "attrs": {
+        "x": 150.4402,
+        "y": 33.83,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect102",
+      "attrs": {
+        "x": 150.4402,
+        "y": 37.13,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect103",
+      "attrs": {
+        "x": 136.6602,
+        "y": 15.98,
+        "width": 0.9,
+        "height": 1.2
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect104",
+      "attrs": {
+        "x": 139.9602,
+        "y": 15.98,
+        "width": 0.9,
+        "height": 1.2
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect105",
+      "attrs": {
+        "x": 18.3302,
+        "y": 53.01,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect106",
+      "attrs": {
+        "x": 18.3302,
+        "y": 56.31,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect107",
+      "attrs": {
+        "x": 82.8602,
+        "y": 66.92,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect108",
+      "attrs": {
+        "x": 82.8602,
+        "y": 70.22,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect109",
+      "attrs": {
+        "x": 55.1902,
+        "y": 33.82,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect110",
+      "attrs": {
+        "x": 55.1902,
+        "y": 37.12,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect111",
+      "attrs": {
+        "x": 74.1602,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect112",
+      "attrs": {
+        "x": 74.1602,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect113",
+      "attrs": {
+        "x": 73.4202,
+        "y": 52.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect114",
+      "attrs": {
+        "x": 73.4202,
+        "y": 56.08,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect115",
+      "attrs": {
+        "x": 74.3202,
+        "y": 33.86,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect116",
+      "attrs": {
+        "x": 74.3202,
+        "y": 37.16,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect117",
+      "attrs": {
+        "x": 162.1302,
+        "y": 16.98,
+        "width": 0.9,
+        "height": 1.2
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect118",
+      "attrs": {
+        "x": 158.8302,
+        "y": 16.98,
+        "width": 0.9,
+        "height": 1.2
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect119",
+      "attrs": {
+        "x": 36.2502,
+        "y": 52.98,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect120",
+      "attrs": {
+        "x": 36.2502,
+        "y": 56.28,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect121",
+      "attrs": {
+        "x": 15.8002,
+        "y": 33.91,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect122",
+      "attrs": {
+        "x": 15.8002,
+        "y": 37.21,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect123",
+      "attrs": {
+        "x": 55.5402,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect124",
+      "attrs": {
+        "x": 55.5402,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect125",
+      "attrs": {
+        "x": 150.4002,
+        "y": 52.81,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect126",
+      "attrs": {
+        "x": 150.4002,
+        "y": 56.11,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect127",
+      "attrs": {
+        "x": 35.9902,
+        "y": 33.82,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect128",
+      "attrs": {
+        "x": 35.9902,
+        "y": 37.12,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect129",
+      "attrs": {
+        "x": 15.9102,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect130",
+      "attrs": {
+        "x": 15.9102,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect131",
+      "attrs": {
+        "x": 15.8502,
+        "y": 53.01,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect132",
+      "attrs": {
+        "x": 15.8502,
+        "y": 56.31,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect133",
+      "attrs": {
+        "x": 30.7902,
+        "y": 66.73,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect134",
+      "attrs": {
+        "x": 30.7902,
+        "y": 70.03,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect135",
+      "attrs": {
+        "x": 18.1802,
+        "y": 33.91,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect136",
+      "attrs": {
+        "x": 18.1802,
+        "y": 37.21,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect137",
+      "attrs": {
+        "x": 18.5402,
+        "y": 12.48,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect138",
+      "attrs": {
+        "x": 18.5402,
+        "y": 15.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect139",
+      "attrs": {
+        "x": 112.3902,
+        "y": 52.89,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect140",
+      "attrs": {
+        "x": 112.3902,
+        "y": 56.19,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect151",
+      "attrs": {
+        "x": 183.2602,
+        "y": 34.18,
+        "width": 1.0,
+        "height": 1.7
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect152",
+      "attrs": {
+        "x": 183.2602,
+        "y": 40.48,
+        "width": 1.0,
+        "height": 1.7
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect153",
+      "attrs": {
+        "x": 179.4602,
+        "y": 34.18,
+        "width": 1.0,
+        "height": 1.7
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect154",
+      "attrs": {
+        "x": 179.4602,
+        "y": 40.48,
+        "width": 1.0,
+        "height": 1.7
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect155",
+      "attrs": {
+        "x": 150.4602,
+        "y": 12.78,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect156",
+      "attrs": {
+        "x": 150.4602,
+        "y": 16.08,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect157",
+      "attrs": {
+        "x": 179.3602,
+        "y": 16.48,
+        "width": 3.2,
+        "height": 0.4
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect158",
+      "attrs": {
+        "x": 179.3602,
+        "y": 17.68,
+        "width": 3.2,
+        "height": 0.4
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect159",
+      "attrs": {
+        "x": 179.3602,
+        "y": 18.88,
+        "width": 3.2,
+        "height": 0.4
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect160",
+      "attrs": {
+        "x": 66.3502,
+        "y": 66.88,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect161",
+      "attrs": {
+        "x": 66.3502,
+        "y": 70.18,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect162",
+      "attrs": {
+        "x": 153.9802,
+        "y": 66.88,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect163",
+      "attrs": {
+        "x": 153.9802,
+        "y": 70.18,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect164",
+      "attrs": {
+        "x": 128.2452,
+        "y": 7.12,
+        "width": 0.6,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect165",
+      "attrs": {
+        "x": 129.0202,
+        "y": 7.12,
+        "width": 0.6,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect166",
+      "attrs": {
+        "x": 129.8702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect167",
+      "attrs": {
+        "x": 130.3702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect168",
+      "attrs": {
+        "x": 130.8702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect169",
+      "attrs": {
+        "x": 131.3702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect170",
+      "attrs": {
+        "x": 131.8702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect171",
+      "attrs": {
+        "x": 132.3702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect172",
+      "attrs": {
+        "x": 132.8702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect173",
+      "attrs": {
+        "x": 133.3702,
+        "y": 7.12,
+        "width": 0.3,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect174",
+      "attrs": {
+        "x": 133.9202,
+        "y": 7.12,
+        "width": 0.6,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect175",
+      "attrs": {
+        "x": 134.6952,
+        "y": 7.12,
+        "width": 0.6,
+        "height": 2.45
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect176",
+      "attrs": {
+        "x": 51.1102,
+        "y": 67.01,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect177",
+      "attrs": {
+        "x": 51.1102,
+        "y": 70.31,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect178",
+      "attrs": {
+        "x": 176.4102,
+        "y": 17.005,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect179",
+      "attrs": {
+        "x": 176.4102,
+        "y": 17.805,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect180",
+      "attrs": {
+        "x": 176.4102,
+        "y": 18.605,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect181",
+      "attrs": {
+        "x": 176.4102,
+        "y": 19.405,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect182",
+      "attrs": {
+        "x": 176.4102,
+        "y": 20.205,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect183",
+      "attrs": {
+        "x": 176.4102,
+        "y": 21.005,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect184",
+      "attrs": {
+        "x": 176.4102,
+        "y": 21.805,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect185",
+      "attrs": {
+        "x": 176.4102,
+        "y": 22.605,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect186",
+      "attrs": {
+        "x": 175.4852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect187",
+      "attrs": {
+        "x": 174.6852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect188",
+      "attrs": {
+        "x": 173.8852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect189",
+      "attrs": {
+        "x": 173.0852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect190",
+      "attrs": {
+        "x": 172.2852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect191",
+      "attrs": {
+        "x": 171.4852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect192",
+      "attrs": {
+        "x": 170.6852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect193",
+      "attrs": {
+        "x": 169.8852,
+        "y": 23.53,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect194",
+      "attrs": {
+        "x": 167.9102,
+        "y": 22.605,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect195",
+      "attrs": {
+        "x": 167.9102,
+        "y": 21.805,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect196",
+      "attrs": {
+        "x": 167.9102,
+        "y": 21.005,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect197",
+      "attrs": {
+        "x": 167.9102,
+        "y": 20.205,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect198",
+      "attrs": {
+        "x": 167.9102,
+        "y": 19.405,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect199",
+      "attrs": {
+        "x": 167.9102,
+        "y": 18.605,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect200",
+      "attrs": {
+        "x": 167.9102,
+        "y": 17.805,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect201",
+      "attrs": {
+        "x": 167.9102,
+        "y": 17.005,
+        "width": 1.6,
+        "height": 0.55
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect202",
+      "attrs": {
+        "x": 169.8852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect203",
+      "attrs": {
+        "x": 170.6852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect204",
+      "attrs": {
+        "x": 171.4852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect205",
+      "attrs": {
+        "x": 172.2852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect206",
+      "attrs": {
+        "x": 173.0852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect207",
+      "attrs": {
+        "x": 173.8852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect208",
+      "attrs": {
+        "x": 174.6852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect209",
+      "attrs": {
+        "x": 175.4852,
+        "y": 15.03,
+        "width": 0.55,
+        "height": 1.6
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect210",
+      "attrs": {
+        "x": 107.0034,
+        "y": 66.8613,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    },
+    {
+      "kind": "base_shape",
+      "type": "rect",
+      "source_id": "rect211",
+      "attrs": {
+        "x": 107.0034,
+        "y": 70.1613,
+        "width": 1.2,
+        "height": 0.9
+      },
+      "transform_ops": []
+    }
+  ]
+}
