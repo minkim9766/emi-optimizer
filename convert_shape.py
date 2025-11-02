@@ -2,6 +2,9 @@ from svg_print import list_svg_flat, save_svg_json
 
 type = 'solderpaste'
 
+if type == 'solderpaste':
+    type += '_edited'
+
 shapes = list_svg_flat(f'./output_images/bot_{type}.svg',expand_use=True)
 save_svg_json(shapes, f'./output_images/bot_{type}.json')
 

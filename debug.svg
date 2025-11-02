@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 187.810398 82.23999923150237" width="187.810398" height="82.23999923150237" style="shape-rendering:crispEdges;vector-effect:non-scaling-stroke" id="svg213" sodipodi:docname="bot_solderpaste.svg" inkscape:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs213"/>
+  <sodipodi:namedview id="namedview213" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:zoom="4.6996597" inkscape:cx="57.344578" inkscape:cy="57.557359" inkscape:window-width="1920" inkscape:window-height="991" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg213"/>
+  <g id="layer_0" transform="translate(0.0,0.0)" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+    <svg width="187.810398" height="82.2399992315023626745432509107161662137198979688791106282744" viewBox="0 0 187.810398 82.2399992315023626745432509107161662137198979688791106282744" version="1.1" id="svg212" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+      <defs id="defs10">
+        <mask id="ly0_b6589fc6__d0">
+          <rect x="-93.905199" y="-41.1199996157511813372716254553580831068599489844395553141372" width="375.620796" height="164.479998463004725349086501821432332427439795937758221256549" fill="#FFFFFF" stroke="#FFFFFF" id="rect2"/>
+        </mask>
+        <g id="ly0_b6589fc6__d1" stroke="#FFFFFF" fill="#FFFFFF">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle2"/>
+        </g>
+        <g id="ly0_b6589fc6__d2" stroke="#FFFFFF" fill="#FFFFFF">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle3"/>
+        </g>
+        <g id="ly0_b6589fc6__d3" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect3"/>
+        </g>
+        <g id="ly0_b6589fc6__d4" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.4500000" y="-0.6000000" width="0.9000000" height="1.2000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect4"/>
+        </g>
+        <g id="ly0_b6589fc6__d5" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.5000000" y="-0.8500000" width="1.0000000" height="1.7000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect5"/>
+        </g>
+        <g id="ly0_b6589fc6__d6" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-1.6000000" y="-0.2000000" width="3.2000000" height="0.4000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect6"/>
+        </g>
+        <g id="ly0_b6589fc6__d7" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.3000000" y="-1.2250000" width="0.6000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect7"/>
+        </g>
+        <g id="ly0_b6589fc6__d8" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect8"/>
+        </g>
+        <g id="ly0_b6589fc6__d9" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect9"/>
+        </g>
+        <g id="ly0_b6589fc6__d10" stroke="#FFFFFF" fill="#FFFFFF">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect10"/>
+        </g>
+      </defs>
+      <g mask="url(#ly0_b6589fc6__d0)" stroke="#FFFFFF" fill="#FFFFFF" id="g212" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+        <g stroke="#FFFFFF" fill="#FFFFFF" id="g10" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(185.510199,4.2199996157511813372716254553580831068599489844395553141374)" id="g11" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle10" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M185.51019900,4.19499962 A2.27519900,2.27519900,0,0,1,187.78539800,6.47019862 L187.73539800,6.47019862 A2.22519900,2.22519900,0,0,0,185.51019900,4.24499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path11" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(187.760398,6.4701986157511813372716254553580831068599489844395553141374)" id="g12" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle11" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(126.180199,4.2399996157511813372716254553580831068599489844395553141374)" id="g13" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle12" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M126.18018346,4.21499962 L126.18021454,4.26499961 L40.93901754,4.31799061 L40.93898646,4.26799062 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path13" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(40.939002,4.2929906157511813372716254553580831068599489844395553141374)" id="g14" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle13" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(171.360199,78.0299996157511813372716254553580831068599489844395553141374)" id="g15" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle14" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M171.36022103,78.00499963 L171.36017697,78.05499961 L160.01017697,78.04499961 L160.01022103,77.99499963 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path15" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(160.010199,78.0199996157511813372716254553580831068599489844395553141374)" id="g16" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle15" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(28.010199,77.9670086157511813372716254553580831068599489844395553141374)" id="g17" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle16" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M28.01014932,77.94200867 L28.01024868,77.99200857 L16.44024868,78.01499957 L16.44014932,77.96499967 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path17" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.440199,77.9899996157511813372716254553580831068599489844395553141374)" id="g18" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle17" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.670421,77.9770086157511813372716254553580831068599489844395553141374)" id="g19" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle18" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M151.64542233,77.97675088 A4.19499962,4.19499962,0,0,1,160.03519900,78.01999962 L159.98519900,78.01999962 A4.14500000,4.14500000,0,0,0,151.69541967,77.97726636 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path19" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(160.010199,78.0199996157511813372716254553580831068599489844395553141374)" id="g20" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle19" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.440199,77.9899996157511813372716254553580831068599489844395553141374)" id="g21" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle20" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M16.44019900,78.01499962 A2.03500000,2.03500000,0,0,1,14.40519900,75.97999962 L14.45519900,75.97999962 A1.98500000,1.98500000,0,0,0,16.44019900,77.96499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path21" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(14.430199,75.9799996157511813372716254553580831068599489844395553141374)" id="g22" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle21" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(175.380199,56.9699996157511813372716254553580831068599489844395553141374)" id="g23" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle22" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M175.38019900,56.99499962 L175.38019900,56.94499962 L185.74019900,56.94499962 L185.74019900,56.99499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path23" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(185.740199,56.9699996157511813372716254553580831068599489844395553141374)" id="g24" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle23" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(187.750199,54.9599996157511813372716254553580831068599489844395553141374)" id="g25" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle24" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M187.77519900,54.95999962 A2.03500000,2.03500000,0,0,1,185.74019900,56.99499962 L185.74019900,56.94499962 A1.98500000,1.98500000,0,0,0,187.72519900,54.95999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path25" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(185.740199,56.9699996157511813372716254553580831068599489844395553141374)" id="g26" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle25" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.370199,76.0199996157511813372716254553580831068599489844395553141374)" id="g27" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle26" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M173.39519900,76.01999962 L173.34519900,76.01999962 L173.34519900,58.97999962 L173.39519900,58.97999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path27" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.370199,58.9799996157511813372716254553580831068599489844395553141374)" id="g28" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle27" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.370199,58.9799996157511813372716254553580831068599489844395553141374)" id="g29" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle28" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M173.34519900,58.97999962 A2.03500000,2.03500000,0,0,1,175.38019900,56.94499962 L175.38019900,56.99499962 A1.98500000,1.98500000,0,0,0,173.39519900,58.97999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path29" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(175.380199,56.9699996157511813372716254553580831068599489844395553141374)" id="g30" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle29" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.370199,76.0199996157511813372716254553580831068599489844395553141374)" id="g31" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle30" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M173.39519900,76.01999962 A2.03500000,2.03500000,0,0,1,171.36019900,78.05499962 L171.36019900,78.00499962 A1.98500000,1.98500000,0,0,0,173.34519900,76.01999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path31" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(171.360199,78.0299996157511813372716254553580831068599489844395553141374)" id="g32" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle31" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(0.050000,6.4899996157511813372716254553580831068599489844395553141374)" id="g33" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle32" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M0.02500000,6.48999962 A2.27519900,2.27519900,0,0,1,2.30019900,4.21480062 L2.30019900,4.26480062 A2.22519900,2.22519900,0,0,0,0.07500000,6.48999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path33" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(2.300199,4.2398006157511813372716254553580831068599489844395553141374)" id="g34" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle33" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(0.050199,54.9599996157511813372716254553580831068599489844395553141374)" id="g35" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle34" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M0.10019900,54.95999941 L0.00019900,54.95999982 L0.00000000,6.48999982 L0.10000000,6.48999941 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path35" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(0.050000,6.4899996157511813372716254553580831068599489844395553141374)" id="g36" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle35" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(12.420199,56.9699996157511813372716254553580831068599489844395553141374)" id="g37" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle36" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M12.42019900,56.94499962 A2.03500000,2.03500000,0,0,1,14.45519900,58.97999962 L14.40519900,58.97999962 A1.98500000,1.98500000,0,0,0,12.42019900,56.99499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path37" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(14.430199,58.9799996157511813372716254553580831068599489844395553141374)" id="g38" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle37" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(155.249977,4.2629906157511813372716254553580831068599489844395553141374)" id="g39" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle38" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M155.27497567,4.26324836 A4.19499962,4.19499962,0,0,1,146.88519900,4.21999962 L146.93519900,4.21999962 A4.14500000,4.14500000,0,0,0,155.22497833,4.26273288 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path39" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(146.910199,4.2199996157511813372716254553580831068599489844395553141374)" id="g40" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle39" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(2.300199,4.2398006157511813372716254553580831068599489844395553141374)" id="g41" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle40" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M2.30019058,4.26480061 L2.30020742,4.21480062 L32.59923242,4.22499962 L32.59921558,4.27499961 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path41" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(32.599224,4.2499996157511813372716254553580831068599489844395553141374)" id="g42" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle41" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(28.010199,77.9670086157511813372716254553580831068599489844395553141374)" id="g43" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle42" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M27.98520033,77.96675088 A4.19499962,4.19499962,0,0,1,36.37497700,78.00999962 L36.32497700,78.00999962 A4.14500000,4.14500000,0,0,0,28.03519767,77.96726636 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path43" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.349977,78.0099996157511813372716254553580831068599489844395553141374)" id="g44" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle43" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(187.760398,6.4701986157511813372716254553580831068599489844395553141374)" id="g45" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle44" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M187.71039800,6.47018810 L187.81039800,6.47020913 L187.80019900,54.96001013 L187.70019900,54.95998910 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path45" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(187.750199,54.9599996157511813372716254553580831068599489844395553141374)" id="g46" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle45" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(2.060199,56.9699996157511813372716254553580831068599489844395553141374)" id="g47" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle46" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M2.06019900,56.99499962 A2.03500000,2.03500000,0,0,1,0.02519900,54.95999962 L0.07519900,54.95999962 A1.98500000,1.98500000,0,0,0,2.06019900,56.94499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path47" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(0.050199,54.9599996157511813372716254553580831068599489844395553141374)" id="g48" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle47" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(126.180199,4.2399996157511813372716254553580831068599489844395553141374)" id="g49" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle48" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M126.20519900,4.23999962 L126.15519900,4.23999962 L126.15519900,1.57999962 L126.20519900,1.57999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path49" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(126.180199,1.5799996157511813372716254553580831068599489844395553141374)" id="g50" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle49" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(185.510199,4.2199996157511813372716254553580831068599489844395553141374)" id="g51" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle50" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M185.51016348,4.19499964 L185.51023452,4.24499959 L155.25001252,4.28799059 L155.24994148,4.23799064 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path51" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(155.249977,4.2629906157511813372716254553580831068599489844395553141374)" id="g52" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle51" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.670421,77.9770086157511813372716254553580831068599489844395553141374)" id="g53" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle52" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M151.67040670,77.92700862 L151.67043530,78.02700861 L36.34999130,78.05999961 L36.34996270,77.95999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path53" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.349977,78.0099996157511813372716254553580831068599489844395553141374)" id="g54" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.05000" fill="#FFFFFF" stroke="#FFFFFF" id="circle53" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(12.420199,56.9699996157511813372716254553580831068599489844395553141374)" id="g55" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle54" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M12.42019900,56.94499962 L12.42019900,56.99499962 L2.06019900,56.99499962 L2.06019900,56.94499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path55" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(2.060199,56.9699996157511813372716254553580831068599489844395553141374)" id="g56" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle55" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(126.180199,1.5799996157511813372716254553580831068599489844395553141374)" id="g57" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle56" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M126.18019900,1.60499962 L126.18019900,1.55499962 L137.27019900,1.55499962 L137.27019900,1.60499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path57" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(137.270199,1.5799996157511813372716254553580831068599489844395553141374)" id="g58" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle57" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(40.939002,4.2929906157511813372716254553580831068599489844395553141374)" id="g59" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle58" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M40.96400067,4.29324836 A4.19499962,4.19499962,0,0,1,32.57422400,4.24999962 L32.62422400,4.24999962 A4.14500000,4.14500000,0,0,0,40.91400333,4.29273288 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path59" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(32.599224,4.2499996157511813372716254553580831068599489844395553141374)" id="g60" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle59" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(14.430199,75.9799996157511813372716254553580831068599489844395553141374)" id="g61" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle60" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M14.45519900,75.97999962 L14.40519900,75.97999962 L14.40519900,58.97999962 L14.45519900,58.97999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path61" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(14.430199,58.9799996157511813372716254553580831068599489844395553141374)" id="g62" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle61" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(137.270199,1.5799996157511813372716254553580831068599489844395553141374)" id="g63" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle62" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M137.24519900,1.57999962 L137.29519900,1.57999962 L137.29519900,4.23999962 L137.24519900,4.23999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path63" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(137.270199,4.2399996157511813372716254553580831068599489844395553141374)" id="g64" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle63" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(137.270199,4.2399996157511813372716254553580831068599489844395553141374)" id="g65" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle64" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M137.27025087,4.26499956 L137.27014713,4.21499967 L146.91014713,4.19499967 L146.91025087,4.24499956 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path65" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(146.910199,4.2199996157511813372716254553580831068599489844395553141374)" id="g66" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <circle cx="0" cy="0" r="0.02500" fill="#FFFFFF" stroke="#FFFFFF" id="circle65" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M176.18519900,13.42374962 L176.18519900,13.93624962 A0.21875000,0.21875000,0,0,1,175.96644900,14.15499962 L175.52894900,14.15499962 A0.21875000,0.21875000,0,0,1,175.31019900,13.93624962 L175.31019900,13.42374962 A0.21875000,0.21875000,0,0,1,175.52894900,13.20499962 L175.96644900,13.20499962 A0.21875000,0.21875000,0,0,1,176.18519900,13.42374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path66" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M174.61019900,13.42374962 L174.61019900,13.93624962 A0.21875000,0.21875000,0,0,1,174.39144900,14.15499962 L173.95394900,14.15499962 A0.21875000,0.21875000,0,0,1,173.73519900,13.93624962 L173.73519900,13.42374962 A0.21875000,0.21875000,0,0,1,173.95394900,13.20499962 L174.39144900,13.20499962 A0.21875000,0.21875000,0,0,1,174.61019900,13.42374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path67" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M179.92269900,15.33624962 L179.92269900,14.82374962 A0.21875000,0.21875000,0,0,1,180.14144900,14.60499962 L180.57894900,14.60499962 A0.21875000,0.21875000,0,0,1,180.79769900,14.82374962 L180.79769900,15.33624962 A0.21875000,0.21875000,0,0,1,180.57894900,15.55499962 L180.14144900,15.55499962 A0.21875000,0.21875000,0,0,1,179.92269900,15.33624962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path68" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M181.49769900,15.33624962 L181.49769900,14.82374962 A0.21875000,0.21875000,0,0,1,181.71644900,14.60499962 L182.15394900,14.60499962 A0.21875000,0.21875000,0,0,1,182.37269900,14.82374962 L182.37269900,15.33624962 A0.21875000,0.21875000,0,0,1,182.15394900,15.55499962 L181.71644900,15.55499962 A0.21875000,0.21875000,0,0,1,181.49769900,15.33624962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path69" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M172.01644900,14.10499962 L171.50394900,14.10499962 A0.21875000,0.21875000,0,0,1,171.28519900,13.88624962 L171.28519900,13.44874962 A0.21875000,0.21875000,0,0,1,171.50394900,13.22999962 L172.01644900,13.22999962 A0.21875000,0.21875000,0,0,1,172.23519900,13.44874962 L172.23519900,13.88624962 A0.21875000,0.21875000,0,0,1,172.01644900,14.10499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path70" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M172.01644900,12.52999962 L171.50394900,12.52999962 A0.21875000,0.21875000,0,0,1,171.28519900,12.31124962 L171.28519900,11.87374962 A0.21875000,0.21875000,0,0,1,171.50394900,11.65499962 L172.01644900,11.65499962 A0.21875000,0.21875000,0,0,1,172.23519900,11.87374962 L172.23519900,12.31124962 A0.21875000,0.21875000,0,0,1,172.01644900,12.52999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path71" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M179.72269900,21.13624962 L179.72269900,20.62374962 A0.21875000,0.21875000,0,0,1,179.94144900,20.40499962 L180.37894900,20.40499962 A0.21875000,0.21875000,0,0,1,180.59769900,20.62374962 L180.59769900,21.13624962 A0.21875000,0.21875000,0,0,1,180.37894900,21.35499962 L179.94144900,21.35499962 A0.21875000,0.21875000,0,0,1,179.72269900,21.13624962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path72" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M181.29769900,21.13624962 L181.29769900,20.62374962 A0.21875000,0.21875000,0,0,1,181.51644900,20.40499962 L181.95394900,20.40499962 A0.21875000,0.21875000,0,0,1,182.17269900,20.62374962 L182.17269900,21.13624962 A0.21875000,0.21875000,0,0,1,181.95394900,21.35499962 L181.51644900,21.35499962 A0.21875000,0.21875000,0,0,1,181.29769900,21.13624962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path73" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M166.81644900,26.30499962 L166.30394900,26.30499962 A0.21875000,0.21875000,0,0,1,166.08519900,26.08624962 L166.08519900,25.64874962 A0.21875000,0.21875000,0,0,1,166.30394900,25.42999962 L166.81644900,25.42999962 A0.21875000,0.21875000,0,0,1,167.03519900,25.64874962 L167.03519900,26.08624962 A0.21875000,0.21875000,0,0,1,166.81644900,26.30499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path74" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M166.81644900,24.72999962 L166.30394900,24.72999962 A0.21875000,0.21875000,0,0,1,166.08519900,24.51124962 L166.08519900,24.07374962 A0.21875000,0.21875000,0,0,1,166.30394900,23.85499962 L166.81644900,23.85499962 A0.21875000,0.21875000,0,0,1,167.03519900,24.07374962 L167.03519900,24.51124962 A0.21875000,0.21875000,0,0,1,166.81644900,24.72999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path75" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M168.38519900,27.62374962 L168.38519900,28.13624962 A0.21875000,0.21875000,0,0,1,168.16644900,28.35499962 L167.72894900,28.35499962 A0.21875000,0.21875000,0,0,1,167.51019900,28.13624962 L167.51019900,27.62374962 A0.21875000,0.21875000,0,0,1,167.72894900,27.40499962 L168.16644900,27.40499962 A0.21875000,0.21875000,0,0,1,168.38519900,27.62374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path76" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M166.81019900,27.62374962 L166.81019900,28.13624962 A0.21875000,0.21875000,0,0,1,166.59144900,28.35499962 L166.15394900,28.35499962 A0.21875000,0.21875000,0,0,1,165.93519900,28.13624962 L165.93519900,27.62374962 A0.21875000,0.21875000,0,0,1,166.15394900,27.40499962 L166.59144900,27.40499962 A0.21875000,0.21875000,0,0,1,166.81019900,27.62374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path77" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(113.110199,34.3199996157511813372716254553580831068599489844395553141374)" id="g77" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect77" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(113.110199,37.6199996157511813372716254553580831068599489844395553141374)" id="g78" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect78" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.860199,53.2599996157511813372716254553580831068599489844395553141374)" id="g79" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect79" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.860199,56.5599996157511813372716254553580831068599489844395553141374)" id="g80" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect80" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(93.870199,34.3399996157511813372716254553580831068599489844395553141374)" id="g81" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect81" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(93.870199,37.6399996157511813372716254553580831068599489844395553141374)" id="g82" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect82" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(113.760199,12.9299996157511813372716254553580831068599489844395553141374)" id="g83" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect83" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(113.760199,16.2299996157511813372716254553580831068599489844395553141374)" id="g84" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect84" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(55.610199,53.4299996157511813372716254553580831068599489844395553141374)" id="g85" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect85" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(55.610199,56.7299996157511813372716254553580831068599489844395553141374)" id="g86" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect86" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(157.120199,67.3299996157511813372716254553580831068599489844395553141374)" id="g87" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect87" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(157.120199,70.6299996157511813372716254553580831068599489844395553141374)" id="g88" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect88" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.840199,34.2899996157511813372716254553580831068599489844395553141374)" id="g89" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect89" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.840199,37.5899996157511813372716254553580831068599489844395553141374)" id="g90" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect90" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(93.840199,12.9299996157511813372716254553580831068599489844395553141374)" id="g91" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect91" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(93.840199,16.2299996157511813372716254553580831068599489844395553141374)" id="g92" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect92" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(95.660199,53.2099996157511813372716254553580831068599489844395553141374)" id="g93" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect93" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(95.660199,56.5099996157511813372716254553580831068599489844395553141374)" id="g94" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect94" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(169.880199,34.2299996157511813372716254553580831068599489844395553141374)" id="g95" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect95" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(169.880199,37.5299996157511813372716254553580831068599489844395553141374)" id="g96" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect96" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.760199,12.9299996157511813372716254553580831068599489844395553141374)" id="g97" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect97" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.760199,16.2299996157511813372716254553580831068599489844395553141374)" id="g98" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect98" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(169.790199,53.3099996157511813372716254553580831068599489844395553141374)" id="g99" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect99" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(169.790199,56.6099996157511813372716254553580831068599489844395553141374)" id="g100" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect100" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.040199,34.2799996157511813372716254553580831068599489844395553141374)" id="g101" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect101" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.040199,37.5799996157511813372716254553580831068599489844395553141374)" id="g102" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect102" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(137.110199,16.5799996157511813372716254553580831068599489844395553141374)" id="g103" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.4500000" y="-0.6000000" width="0.9000000" height="1.2000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect103" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(140.410199,16.5799996157511813372716254553580831068599489844395553141374)" id="g104" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.4500000" y="-0.6000000" width="0.9000000" height="1.2000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect104" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(18.930199,53.4599996157511813372716254553580831068599489844395553141374)" id="g105" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect105" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(18.930199,56.7599996157511813372716254553580831068599489844395553141374)" id="g106" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect106" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(83.460199,67.3699996157511813372716254553580831068599489844395553141374)" id="g107" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect107" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(83.460199,70.6699996157511813372716254553580831068599489844395553141374)" id="g108" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect108" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(55.790199,34.2699996157511813372716254553580831068599489844395553141374)" id="g109" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect109" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(55.790199,37.5699996157511813372716254553580831068599489844395553141374)" id="g110" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect110" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.760199,12.9299996157511813372716254553580831068599489844395553141374)" id="g111" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect111" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.760199,16.2299996157511813372716254553580831068599489844395553141374)" id="g112" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect112" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.020199,53.2299996157511813372716254553580831068599489844395553141374)" id="g113" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect113" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.020199,56.5299996157511813372716254553580831068599489844395553141374)" id="g114" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect114" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.920199,34.3099996157511813372716254553580831068599489844395553141374)" id="g115" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect115" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(74.920199,37.6099996157511813372716254553580831068599489844395553141374)" id="g116" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect116" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(162.580199,17.5799996157511813372716254553580831068599489844395553141374)" id="g117" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.4500000" y="-0.6000000" width="0.9000000" height="1.2000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect117" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(159.280199,17.5799996157511813372716254553580831068599489844395553141374)" id="g118" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.4500000" y="-0.6000000" width="0.9000000" height="1.2000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect118" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.850199,53.4299996157511813372716254553580831068599489844395553141374)" id="g119" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect119" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.850199,56.7299996157511813372716254553580831068599489844395553141374)" id="g120" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect120" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.400199,34.3599996157511813372716254553580831068599489844395553141374)" id="g121" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect121" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.400199,37.6599996157511813372716254553580831068599489844395553141374)" id="g122" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect122" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(56.140199,12.9299996157511813372716254553580831068599489844395553141374)" id="g123" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect123" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(56.140199,16.2299996157511813372716254553580831068599489844395553141374)" id="g124" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect124" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.000199,53.2599996157511813372716254553580831068599489844395553141374)" id="g125" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect125" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.000199,56.5599996157511813372716254553580831068599489844395553141374)" id="g126" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect126" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.590199,34.2699996157511813372716254553580831068599489844395553141374)" id="g127" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect127" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(36.590199,37.5699996157511813372716254553580831068599489844395553141374)" id="g128" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect128" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.510199,12.9299996157511813372716254553580831068599489844395553141374)" id="g129" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect129" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.510199,16.2299996157511813372716254553580831068599489844395553141374)" id="g130" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect130" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.450199,53.4599996157511813372716254553580831068599489844395553141374)" id="g131" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect131" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(16.450199,56.7599996157511813372716254553580831068599489844395553141374)" id="g132" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect132" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(31.390199,67.1799996157511813372716254553580831068599489844395553141374)" id="g133" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect133" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(31.390199,70.4799996157511813372716254553580831068599489844395553141374)" id="g134" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect134" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(18.780199,34.3599996157511813372716254553580831068599489844395553141374)" id="g135" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect135" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(18.780199,37.6599996157511813372716254553580831068599489844395553141374)" id="g136" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect136" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(19.140199,12.9299996157511813372716254553580831068599489844395553141374)" id="g137" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect137" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(19.140199,16.2299996157511813372716254553580831068599489844395553141374)" id="g138" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect138" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(112.990199,53.3399996157511813372716254553580831068599489844395553141374)" id="g139" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect139" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(112.990199,56.6399996157511813372716254553580831068599489844395553141374)" id="g140" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect140" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M128.49394900,14.21499962 L129.00644900,14.21499962 A0.21875000,0.21875000,0,0,1,129.22519900,14.43374962 L129.22519900,14.87124962 A0.21875000,0.21875000,0,0,1,129.00644900,15.08999962 L128.49394900,15.08999962 A0.21875000,0.21875000,0,0,1,128.27519900,14.87124962 L128.27519900,14.43374962 A0.21875000,0.21875000,0,0,1,128.49394900,14.21499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path140" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M128.49394900,15.78999962 L129.00644900,15.78999962 A0.21875000,0.21875000,0,0,1,129.22519900,16.00874962 L129.22519900,16.44624962 A0.21875000,0.21875000,0,0,1,129.00644900,16.66499962 L128.49394900,16.66499962 A0.21875000,0.21875000,0,0,1,128.27519900,16.44624962 L128.27519900,16.00874962 A0.21875000,0.21875000,0,0,1,128.49394900,15.78999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path141" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M130.84644900,16.62499962 L130.33394900,16.62499962 A0.21875000,0.21875000,0,0,1,130.11519900,16.40624962 L130.11519900,15.96874962 A0.21875000,0.21875000,0,0,1,130.33394900,15.74999962 L130.84644900,15.74999962 A0.21875000,0.21875000,0,0,1,131.06519900,15.96874962 L131.06519900,16.40624962 A0.21875000,0.21875000,0,0,1,130.84644900,16.62499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path142" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M130.84644900,15.04999962 L130.33394900,15.04999962 A0.21875000,0.21875000,0,0,1,130.11519900,14.83124962 L130.11519900,14.39374962 A0.21875000,0.21875000,0,0,1,130.33394900,14.17499962 L130.84644900,14.17499962 A0.21875000,0.21875000,0,0,1,131.06519900,14.39374962 L131.06519900,14.83124962 A0.21875000,0.21875000,0,0,1,130.84644900,15.04999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path143" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M176.11644900,40.40499962 L175.60394900,40.40499962 A0.21875000,0.21875000,0,0,1,175.38519900,40.18624962 L175.38519900,39.74874962 A0.21875000,0.21875000,0,0,1,175.60394900,39.52999962 L176.11644900,39.52999962 A0.21875000,0.21875000,0,0,1,176.33519900,39.74874962 L176.33519900,40.18624962 A0.21875000,0.21875000,0,0,1,176.11644900,40.40499962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path144" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M176.11644900,38.82999962 L175.60394900,38.82999962 A0.21875000,0.21875000,0,0,1,175.38519900,38.61124962 L175.38519900,38.17374962 A0.21875000,0.21875000,0,0,1,175.60394900,37.95499962 L176.11644900,37.95499962 A0.21875000,0.21875000,0,0,1,176.33519900,38.17374962 L176.33519900,38.61124962 A0.21875000,0.21875000,0,0,1,176.11644900,38.82999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path145" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M141.88769900,7.19374962 L141.88769900,7.70624962 A0.21875000,0.21875000,0,0,1,141.66894900,7.92499962 L141.23144900,7.92499962 A0.21875000,0.21875000,0,0,1,141.01269900,7.70624962 L141.01269900,7.19374962 A0.21875000,0.21875000,0,0,1,141.23144900,6.97499962 L141.66894900,6.97499962 A0.21875000,0.21875000,0,0,1,141.88769900,7.19374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path146" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M140.31269900,7.19374962 L140.31269900,7.70624962 A0.21875000,0.21875000,0,0,1,140.09394900,7.92499962 L139.65644900,7.92499962 A0.21875000,0.21875000,0,0,1,139.43769900,7.70624962 L139.43769900,7.19374962 A0.21875000,0.21875000,0,0,1,139.65644900,6.97499962 L140.09394900,6.97499962 A0.21875000,0.21875000,0,0,1,140.31269900,7.19374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path147" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M141.84769900,5.43374962 L141.84769900,5.94624962 A0.21875000,0.21875000,0,0,1,141.62894900,6.16499962 L141.19144900,6.16499962 A0.21875000,0.21875000,0,0,1,140.97269900,5.94624962 L140.97269900,5.43374962 A0.21875000,0.21875000,0,0,1,141.19144900,5.21499962 L141.62894900,5.21499962 A0.21875000,0.21875000,0,0,1,141.84769900,5.43374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path148" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M140.27269900,5.43374962 L140.27269900,5.94624962 A0.21875000,0.21875000,0,0,1,140.05394900,6.16499962 L139.61644900,6.16499962 A0.21875000,0.21875000,0,0,1,139.39769900,5.94624962 L139.39769900,5.43374962 A0.21875000,0.21875000,0,0,1,139.61644900,5.21499962 L140.05394900,5.21499962 A0.21875000,0.21875000,0,0,1,140.27269900,5.43374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path149" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M174.57269900,26.22374962 L174.57269900,26.73624962 A0.21875000,0.21875000,0,0,1,174.35394900,26.95499962 L173.91644900,26.95499962 A0.21875000,0.21875000,0,0,1,173.69769900,26.73624962 L173.69769900,26.22374962 A0.21875000,0.21875000,0,0,1,173.91644900,26.00499962 L174.35394900,26.00499962 A0.21875000,0.21875000,0,0,1,174.57269900,26.22374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path150" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M172.99769900,26.22374962 L172.99769900,26.73624962 A0.21875000,0.21875000,0,0,1,172.77894900,26.95499962 L172.34144900,26.95499962 A0.21875000,0.21875000,0,0,1,172.12269900,26.73624962 L172.12269900,26.22374962 A0.21875000,0.21875000,0,0,1,172.34144900,26.00499962 L172.77894900,26.00499962 A0.21875000,0.21875000,0,0,1,172.99769900,26.22374962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path151" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(183.760199,35.0299996157511813372716254553580831068599489844395553141374)" id="g151" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.5000000" y="-0.8500000" width="1.0000000" height="1.7000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect151" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(183.760199,41.3299996157511813372716254553580831068599489844395553141374)" id="g152" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.5000000" y="-0.8500000" width="1.0000000" height="1.7000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect152" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(179.960199,35.0299996157511813372716254553580831068599489844395553141374)" id="g153" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.5000000" y="-0.8500000" width="1.0000000" height="1.7000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect153" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(179.960199,41.3299996157511813372716254553580831068599489844395553141374)" id="g154" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.5000000" y="-0.8500000" width="1.0000000" height="1.7000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect154" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.060199,13.2299996157511813372716254553580831068599489844395553141374)" id="g155" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect155" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(151.060199,16.5299996157511813372716254553580831068599489844395553141374)" id="g156" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect156" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(180.960199,16.6799996157511813372716254553580831068599489844395553141374)" id="g157" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-1.6000000" y="-0.2000000" width="3.2000000" height="0.4000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect157" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(180.960199,17.8799996157511813372716254553580831068599489844395553141374)" id="g158" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-1.6000000" y="-0.2000000" width="3.2000000" height="0.4000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect158" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(180.960199,19.0799996157511813372716254553580831068599489844395553141374)" id="g159" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-1.6000000" y="-0.2000000" width="3.2000000" height="0.4000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect159" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <path d="M133.29769900,14.47999962 L132.82269900,14.47999962 A0.23750000,0.23750000,0,0,1,132.58519900,14.24249962 L132.58519900,13.66749962 A0.23750000,0.23750000,0,0,1,132.82269900,13.42999962 L133.29769900,13.42999962 A0.23750000,0.23750000,0,0,1,133.53519900,13.66749962 L133.53519900,14.24249962 A0.23750000,0.23750000,0,0,1,133.29769900,14.47999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path159" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <path d="M133.29769900,12.72999962 L132.82269900,12.72999962 A0.23750000,0.23750000,0,0,1,132.58519900,12.49249962 L132.58519900,11.91749962 A0.23750000,0.23750000,0,0,1,132.82269900,11.67999962 L133.29769900,11.67999962 A0.23750000,0.23750000,0,0,1,133.53519900,11.91749962 L133.53519900,12.49249962 A0.23750000,0.23750000,0,0,1,133.29769900,12.72999962 Z" fill="#FFFFFF" stroke="#FFFFFF" id="path160" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(66.950199,67.3299996157511813372716254553580831068599489844395553141374)" id="g160" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect160" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(66.950199,70.6299996157511813372716254553580831068599489844395553141374)" id="g161" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect161" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(154.580199,67.3299996157511813372716254553580831068599489844395553141374)" id="g162" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect162" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(154.580199,70.6299996157511813372716254553580831068599489844395553141374)" id="g163" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect163" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(128.545199,8.3449996157511813372716254553580831068599489844395553141374)" id="g164" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.3000000" y="-1.2250000" width="0.6000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect164" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(129.320199,8.3449996157511813372716254553580831068599489844395553141374)" id="g165" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.3000000" y="-1.2250000" width="0.6000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect165" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(130.020199,8.3449996157511813372716254553580831068599489844395553141374)" id="g166" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect166" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(130.520199,8.3449996157511813372716254553580831068599489844395553141374)" id="g167" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect167" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.020199,8.3449996157511813372716254553580831068599489844395553141374)" id="g168" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect168" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(131.520199,8.3449996157511813372716254553580831068599489844395553141374)" id="g169" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect169" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(132.020199,8.3449996157511813372716254553580831068599489844395553141374)" id="g170" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect170" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(132.520199,8.3449996157511813372716254553580831068599489844395553141374)" id="g171" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect171" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(133.020199,8.3449996157511813372716254553580831068599489844395553141374)" id="g172" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect172" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(133.520199,8.3449996157511813372716254553580831068599489844395553141374)" id="g173" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.1500000" y="-1.2250000" width="0.3000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect173" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(134.220199,8.3449996157511813372716254553580831068599489844395553141374)" id="g174" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.3000000" y="-1.2250000" width="0.6000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect174" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(134.995199,8.3449996157511813372716254553580831068599489844395553141374)" id="g175" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.3000000" y="-1.2250000" width="0.6000000" height="2.4500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect175" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(51.710199,67.4599996157511813372716254553580831068599489844395553141374)" id="g176" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect176" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(51.710199,70.7599996157511813372716254553580831068599489844395553141374)" id="g177" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect177" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,17.2799996157511813372716254553580831068599489844395553141374)" id="g178" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect178" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,18.0799996157511813372716254553580831068599489844395553141374)" id="g179" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect179" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,18.8799996157511813372716254553580831068599489844395553141374)" id="g180" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect180" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,19.6799996157511813372716254553580831068599489844395553141374)" id="g181" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect181" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,20.4799996157511813372716254553580831068599489844395553141374)" id="g182" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect182" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,21.2799996157511813372716254553580831068599489844395553141374)" id="g183" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect183" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,22.0799996157511813372716254553580831068599489844395553141374)" id="g184" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect184" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(177.210199,22.8799996157511813372716254553580831068599489844395553141374)" id="g185" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect185" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(175.760199,24.3299996157511813372716254553580831068599489844395553141374)" id="g186" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect186" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(174.960199,24.3299996157511813372716254553580831068599489844395553141374)" id="g187" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect187" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(174.160199,24.3299996157511813372716254553580831068599489844395553141374)" id="g188" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect188" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.360199,24.3299996157511813372716254553580831068599489844395553141374)" id="g189" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect189" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(172.560199,24.3299996157511813372716254553580831068599489844395553141374)" id="g190" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect190" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(171.760199,24.3299996157511813372716254553580831068599489844395553141374)" id="g191" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect191" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(170.960199,24.3299996157511813372716254553580831068599489844395553141374)" id="g192" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect192" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(170.160199,24.3299996157511813372716254553580831068599489844395553141374)" id="g193" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect193" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,22.8799996157511813372716254553580831068599489844395553141374)" id="g194" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect194" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,22.0799996157511813372716254553580831068599489844395553141374)" id="g195" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect195" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,21.2799996157511813372716254553580831068599489844395553141374)" id="g196" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect196" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,20.4799996157511813372716254553580831068599489844395553141374)" id="g197" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect197" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,19.6799996157511813372716254553580831068599489844395553141374)" id="g198" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect198" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,18.8799996157511813372716254553580831068599489844395553141374)" id="g199" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect199" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,18.0799996157511813372716254553580831068599489844395553141374)" id="g200" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect200" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(168.710199,17.2799996157511813372716254553580831068599489844395553141374)" id="g201" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.8000000" y="-0.2750000" width="1.6000000" height="0.5500000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect201" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(170.160199,15.8299996157511813372716254553580831068599489844395553141374)" id="g202" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect202" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(170.960199,15.8299996157511813372716254553580831068599489844395553141374)" id="g203" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect203" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(171.760199,15.8299996157511813372716254553580831068599489844395553141374)" id="g204" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect204" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(172.560199,15.8299996157511813372716254553580831068599489844395553141374)" id="g205" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect205" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(173.360199,15.8299996157511813372716254553580831068599489844395553141374)" id="g206" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect206" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(174.160199,15.8299996157511813372716254553580831068599489844395553141374)" id="g207" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect207" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(174.960199,15.8299996157511813372716254553580831068599489844395553141374)" id="g208" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect208" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(175.760199,15.8299996157511813372716254553580831068599489844395553141374)" id="g209" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.2750000" y="-0.8000000" width="0.5500000" height="1.6000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect209" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(107.603405,67.3113076157511813372716254553580831068599489844395553141374)" id="g210" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect210" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+        <g stroke="#FFFFFF" fill="#FFFFFF" transform="translate(107.603405,70.6113076157511813372716254553580831068599489844395553141374)" id="g211" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+          <rect x="-0.6000000" y="-0.4500000" width="1.2000000" height="0.9000000" fill="#FFFFFF" transform="rotate(-0.0)" stroke="#FFFFFF" id="rect211" style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"/>
+        </g>
+      </g>
+    </svg>
+  </g>
+<g id="debug_overlay" style="fill:none;stroke:#ff0000;stroke-width:0.6;stroke-opacity:1"><rect x="-93.905199" y="-41.11999961575118" width="375.620796" height="164.47999846300473"/><rect x="-0.025" y="-0.025" width="0.05" height="0.05"/><rect x="-0.05" y="-0.05" width="0.1" height="0.1"/><rect x="-0.6" y="-0.45" width="1.2" height="0.9"/><rect x="-0.45" y="-0.6" width="0.9" height="1.2"/><rect x="-0.5" y="-0.85" width="1.0" height="1.7"/><rect x="-1.6" y="-0.2" width="3.2" height="0.4"/><rect x="-0.3" y="-1.225" width="0.6" height="2.45"/><rect x="-0.15" y="-1.225" width="0.3" height="2.45"/><rect x="-0.8" y="-0.275" width="1.6" height="0.55"/><rect x="-0.275" y="-0.8" width="0.55" height="1.6"/><rect x="185.485199" y="4.194999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="187.735398" y="6.445198615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="126.155199" y="4.214999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="40.914002" y="4.267990615751181" width="0.04999999999999716" height="0.05000000000000071"/><rect x="171.335199" y="78.00499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="159.985199" y="77.99499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="27.985199" y="77.94200861575118" width="0.04999999999999716" height="0.05000000000001137"/><rect x="16.415199" y="77.96499961575118" width="0.04999999999999716" height="0.05000000000001137"/><rect x="151.645421" y="77.95200861575118" width="0.05000000000001137" height="0.05000000000001137"/><rect x="159.985199" y="77.99499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="16.415199" y="77.96499961575118" width="0.04999999999999716" height="0.05000000000001137"/><rect x="14.405199" y="75.95499961575118" width="0.05000000000000071" height="0.05000000000001137"/><rect x="175.355199" y="56.944999615751186" width="0.05000000000001137" height="0.04999999999999716"/><rect x="185.71519899999998" y="56.944999615751186" width="0.05000000000001137" height="0.04999999999999716"/><rect x="187.725199" y="54.93499961575118" width="0.05000000000001137" height="0.04999999999999716"/><rect x="185.71519899999998" y="56.944999615751186" width="0.05000000000001137" height="0.04999999999999716"/><rect x="173.345199" y="75.99499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="173.345199" y="58.954999615751184" width="0.05000000000001137" height="0.04999999999999716"/><rect x="173.345199" y="58.954999615751184" width="0.05000000000001137" height="0.04999999999999716"/><rect x="175.355199" y="56.944999615751186" width="0.05000000000001137" height="0.04999999999999716"/><rect x="173.345199" y="75.99499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="171.335199" y="78.00499961575117" width="0.05000000000001137" height="0.05000000000001137"/><rect x="0.025" y="6.464999615751181" width="0.05000000000000001" height="0.05000000000000071"/><rect x="2.275199" y="4.214800615751181" width="0.04999999999999982" height="0.05000000000000071"/><rect x="0.0001989999999999978" y="54.90999961575118" width="0.1" height="0.09999999999999432"/><rect x="0.0" y="6.439999615751182" width="0.1" height="0.09999999999999964"/><rect x="12.395199" y="56.944999615751186" width="0.05000000000000071" height="0.04999999999999716"/><rect x="14.405199" y="58.954999615751184" width="0.05000000000000071" height="0.04999999999999716"/><rect x="155.224977" y="4.237990615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="146.885199" y="4.194999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="2.275199" y="4.214800615751181" width="0.04999999999999982" height="0.05000000000000071"/><rect x="32.574224" y="4.224999615751181" width="0.04999999999999716" height="0.05000000000000071"/><rect x="27.985199" y="77.94200861575118" width="0.04999999999999716" height="0.05000000000001137"/><rect x="36.324977000000004" y="77.98499961575118" width="0.04999999999999716" height="0.05000000000001137"/><rect x="187.710398" y="6.420198615751182" width="0.10000000000002274" height="0.09999999999999964"/><rect x="187.700199" y="54.90999961575118" width="0.10000000000002274" height="0.09999999999999432"/><rect x="2.035199" y="56.944999615751186" width="0.04999999999999982" height="0.04999999999999716"/><rect x="0.025199" y="54.93499961575118" width="0.05" height="0.04999999999999716"/><rect x="126.155199" y="4.214999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="126.155199" y="1.5549996157511814" width="0.05000000000001137" height="0.04999999999999982"/><rect x="185.485199" y="4.194999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="155.224977" y="4.237990615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="151.620421" y="77.92700861575119" width="0.10000000000002274" height="0.09999999999999432"/><rect x="36.299977000000005" y="77.95999961575119" width="0.09999999999999432" height="0.09999999999999432"/><rect x="12.395199" y="56.944999615751186" width="0.05000000000000071" height="0.04999999999999716"/><rect x="2.035199" y="56.944999615751186" width="0.04999999999999982" height="0.04999999999999716"/><rect x="126.155199" y="1.5549996157511814" width="0.05000000000001137" height="0.04999999999999982"/><rect x="137.24519899999999" y="1.5549996157511814" width="0.05000000000001137" height="0.04999999999999982"/><rect x="40.914002" y="4.267990615751181" width="0.04999999999999716" height="0.05000000000000071"/><rect x="32.574224" y="4.224999615751181" width="0.04999999999999716" height="0.05000000000000071"/><rect x="14.405199" y="75.95499961575118" width="0.05000000000000071" height="0.05000000000001137"/><rect x="14.405199" y="58.954999615751184" width="0.05000000000000071" height="0.04999999999999716"/><rect x="137.24519899999999" y="1.5549996157511814" width="0.05000000000001137" height="0.04999999999999982"/><rect x="137.24519899999999" y="4.214999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="137.24519899999999" y="4.214999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="146.885199" y="4.194999615751181" width="0.05000000000001137" height="0.05000000000000071"/><rect x="112.510199" y="33.869999615751176" width="1.1999999999999886" height="0.9000000000000057"/><rect x="112.510199" y="37.16999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="131.260199" y="52.80999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="131.260199" y="56.10999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="93.270199" y="33.88999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="93.270199" y="37.18999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="113.160199" y="12.479999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="113.160199" y="15.779999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="55.010199" y="52.979999615751176" width="1.2000000000000028" height="0.9000000000000057"/><rect x="55.010199" y="56.27999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="156.52019900000002" y="66.87999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="156.52019900000002" y="70.17999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="131.24019900000002" y="33.839999615751175" width="1.1999999999999886" height="0.9000000000000057"/><rect x="131.24019900000002" y="37.13999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="93.240199" y="12.479999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="93.240199" y="15.779999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="95.06019900000001" y="52.75999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="95.06019900000001" y="56.05999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="169.280199" y="33.77999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="169.280199" y="37.07999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="36.160199" y="12.479999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="36.160199" y="15.779999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="169.190199" y="52.85999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="169.190199" y="56.159999615751175" width="1.1999999999999886" height="0.9000000000000057"/><rect x="150.440199" y="33.82999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="150.440199" y="37.12999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="136.660199" y="15.979999615751181" width="0.8999999999999773" height="1.200000000000001"/><rect x="139.96019900000002" y="15.979999615751181" width="0.8999999999999773" height="1.200000000000001"/><rect x="18.330199" y="53.00999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="18.330199" y="56.30999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="82.86019900000001" y="66.91999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="82.86019900000001" y="70.21999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="55.190199" y="33.81999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="55.190199" y="37.119999615751176" width="1.2000000000000028" height="0.9000000000000057"/><rect x="74.160199" y="12.479999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="74.160199" y="15.779999615751183" width="1.1999999999999886" height="0.8999999999999986"/><rect x="73.42019900000001" y="52.77999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="73.42019900000001" y="56.07999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="74.320199" y="33.85999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="74.320199" y="37.159999615751175" width="1.1999999999999886" height="0.9000000000000057"/><rect x="162.130199" y="16.97999961575118" width="0.8999999999999773" height="1.2000000000000028"/><rect x="158.83019900000002" y="16.97999961575118" width="0.8999999999999773" height="1.2000000000000028"/><rect x="36.250199" y="52.979999615751176" width="1.2000000000000028" height="0.9000000000000057"/><rect x="36.250199" y="56.27999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="15.800199000000001" y="33.909999615751175" width="1.200000000000001" height="0.9000000000000057"/><rect x="15.800199000000001" y="37.20999961575118" width="1.200000000000001" height="0.9000000000000057"/><rect x="55.540199" y="12.479999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="55.540199" y="15.779999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="150.40019900000001" y="52.80999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="150.40019900000001" y="56.10999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="35.990199" y="33.81999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="35.990199" y="37.119999615751176" width="1.2000000000000028" height="0.9000000000000057"/><rect x="15.910199" y="12.479999615751183" width="1.200000000000001" height="0.8999999999999986"/><rect x="15.910199" y="15.779999615751183" width="1.200000000000001" height="0.8999999999999986"/><rect x="15.850199000000002" y="53.00999961575118" width="1.200000000000001" height="0.9000000000000057"/><rect x="15.850199000000002" y="56.30999961575118" width="1.200000000000001" height="0.9000000000000057"/><rect x="30.790198999999998" y="66.72999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="30.790198999999998" y="70.02999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="18.180198999999998" y="33.909999615751175" width="1.2000000000000028" height="0.9000000000000057"/><rect x="18.180198999999998" y="37.20999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="18.540198999999998" y="12.479999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="18.540198999999998" y="15.779999615751183" width="1.2000000000000028" height="0.8999999999999986"/><rect x="112.39019900000001" y="52.88999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="112.39019900000001" y="56.18999961575118" width="1.1999999999999886" height="0.9000000000000057"/><rect x="183.260199" y="34.17999961575118" width="1.0" height="1.7000000000000028"/><rect x="183.260199" y="40.47999961575118" width="1.0" height="1.7000000000000028"/><rect x="179.460199" y="34.17999961575118" width="1.0" height="1.7000000000000028"/><rect x="179.460199" y="40.47999961575118" width="1.0" height="1.7000000000000028"/><rect x="150.46019900000002" y="12.779999615751182" width="1.1999999999999886" height="0.8999999999999986"/><rect x="150.46019900000002" y="16.07999961575118" width="1.1999999999999886" height="0.8999999999999986"/><rect x="179.360199" y="16.479999615751183" width="3.1999999999999886" height="0.3999999999999986"/><rect x="179.360199" y="17.679999615751182" width="3.1999999999999886" height="0.3999999999999986"/><rect x="179.360199" y="18.87999961575118" width="3.1999999999999886" height="0.3999999999999986"/><rect x="66.350199" y="66.87999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="66.350199" y="70.17999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="153.980199" y="66.87999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="153.980199" y="70.17999961575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="128.24519899999999" y="7.119999615751182" width="0.6000000000000227" height="2.4499999999999993"/><rect x="129.020199" y="7.119999615751182" width="0.6000000000000227" height="2.4499999999999993"/><rect x="129.87019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="130.37019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="130.87019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="131.37019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="131.87019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="132.37019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="132.87019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="133.37019899999999" y="7.119999615751182" width="0.30000000000001137" height="2.4499999999999993"/><rect x="133.920199" y="7.119999615751182" width="0.6000000000000227" height="2.4499999999999993"/><rect x="134.695199" y="7.119999615751182" width="0.6000000000000227" height="2.4499999999999993"/><rect x="51.110199" y="67.00999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="51.110199" y="70.30999961575118" width="1.2000000000000028" height="0.9000000000000057"/><rect x="176.41019899999998" y="17.00499961575118" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="17.804999615751182" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="18.604999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="19.404999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="20.204999615751184" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="21.00499961575118" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="21.804999615751182" width="1.6000000000000227" height="0.5499999999999972"/><rect x="176.41019899999998" y="22.604999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="175.485199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="174.68519899999998" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="173.885199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="173.085199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="172.285199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="171.485199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="170.68519899999998" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="169.885199" y="23.52999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="167.91019899999998" y="22.604999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="21.804999615751182" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="21.00499961575118" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="20.204999615751184" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="19.404999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="18.604999615751183" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="17.804999615751182" width="1.6000000000000227" height="0.5499999999999972"/><rect x="167.91019899999998" y="17.00499961575118" width="1.6000000000000227" height="0.5499999999999972"/><rect x="169.885199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="170.68519899999998" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="171.485199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="172.285199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="173.085199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="173.885199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="174.68519899999998" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="175.485199" y="15.02999961575118" width="0.5500000000000114" height="1.6000000000000014"/><rect x="107.003405" y="66.86130761575117" width="1.1999999999999886" height="0.9000000000000057"/><rect x="107.003405" y="70.16130761575118" width="1.1999999999999886" height="0.9000000000000057"/></g></svg>
